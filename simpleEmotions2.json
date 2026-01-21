@@ -1,0 +1,107 @@
+{
+    "0": {
+        "image_file": "HECO_0001.png",
+        "caption": "The image region defined by the coordinates (xmin = 575.3415162, xmax = 804.5400722, ymin = 106.4415584, ymax = 537.3820346) representing A woman riding a horse, expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 575.3415162, xmax = 804.5400722, ymin = 106.4415584, ymax = 537.3820346) representing A woman riding a horse, expresses Anger"
+    },
+    "1": {
+        "image_file": "HECO_0002.png",
+        "caption": "The image region defined by the coordinates (xmin = 213.3333333, xmax = 489.2813853, ymin = 149.6103896, ymax = 616.1731602) representing A woman focused on her camera, expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 213.3333333, xmax = 489.2813853, ymin = 149.6103896, ymax = 616.1731602) representing A woman focused on her camera, expresses Excitement"
+    },
+    "2": {
+        "image_file": "HECO_0002.png",
+        "caption": "The image region defined by the coordinates (xmin = 527.5151978, xmax = 938.5730591, ymin = 336.5945435, ymax = 1011.344788) representing A person wearing a blue shawl, carrying something on their back, expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 527.5151978, xmax = 938.5730591, ymin = 336.5945435, ymax = 1011.344788) representing A person wearing a blue shawl, carrying something on their back, expresses Anger"
+    },
+    "3": {
+        "image_file": "HECO_0003.png",
+        "caption": "The image region defined by the coordinates (xmin = 630.025974, xmax = 1010.285714, ymin = 192.8311688, ymax = 728.1038961) representing A man in the water holding a drink, expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 630.025974, xmax = 1010.285714, ymin = 192.8311688, ymax = 728.1038961) representing A man in the water holding a drink, expresses Sadness"
+    },
+    "4": {
+        "image_file": "HECO_0004.png",
+        "caption": "The image region defined by the coordinates (xmin = 261.5411255, xmax = 764.6753247, ymin = 247.1341991, ymax = 1022.891775) representing A woman sitting cross-legged, lost in tought, expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 261.5411255, xmax = 764.6753247, ymin = 247.1341991, ymax = 1022.891775) representing A woman sitting cross-legged, lost in tought, expresses Anger"
+    },
+    "5": {
+        "image_file": "HECO_0005.png",
+        "caption": "The image region defined by the coordinates (xmin = 6.041877256, xmax = 508.8, ymin = 123.4426407, ymax = 672.6515152) representing A woman seen in profile, caught mid-speech, expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 6.041877256, xmax = 508.8, ymin = 123.4426407, ymax = 672.6515152) representing A woman seen in profile, caught mid-speech, expresses Sadness"
+    },
+    "6": {
+        "image_file": "HECO_0005.png",
+        "caption": "The image region defined by the coordinates (xmin = 667.633213, xmax = 990.8563177, ymin = 73.91774892, ymax = 481.9437229) representing A woman smiling, carrying a child, expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 667.633213, xmax = 990.8563177, ymin = 73.91774892, ymax = 481.9437229) representing A woman smiling, carrying a child, expresses Sadness"
+    },
+    "7": {
+        "image_file": "HECO_0006.png",
+        "caption": "The image region defined by the coordinates (xmin = 94.33766234, xmax = 284.6753247, ymin = 125.5064935, ymax = 725.6103896) representing Man with a cap and white t-shirt, standing-up in the street, expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 94.33766234, xmax = 284.6753247, ymin = 125.5064935, ymax = 725.6103896) representing Man with a cap and white t-shirt, standing-up in the street, expresses Anger"
+    },
+    "8": {
+        "image_file": "HECO_0006.png",
+        "caption": "The image region defined by the coordinates (xmin = 402.7012987, xmax = 586.3896104, ymin = 108.0519481, ymax = 480.4155844) representing A man standing with a phone in his hand and a camera hanging from his neck, expresses Anger",
+        "foil": "The image region defined by the coordinates (xmin = 402.7012987, xmax = 586.3896104, ymin = 108.0519481, ymax = 480.4155844) representing A man standing with a phone in his hand and a camera hanging from his neck, expresses Peace"
+    },
+    "9": {
+        "image_file": "HECO_0006.png",
+        "caption": "The image region defined by the coordinates (xmin = 692.3636364, xmax = 904.7272727, ymin = 117.1948052, ymax = 584.3116883) representing A man loocking at the camera with his hands clasped together, expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 692.3636364, xmax = 904.7272727, ymin = 117.1948052, ymax = 584.3116883) representing A man loocking at the camera with his hands clasped together, expresses Sadness"
+    },
+    "10": {
+        "image_file": "HECO_0007.png",
+        "caption": "The image region defined by the coordinates (xmin = 716.8831169, xmax = 951.2727273, ymin = 320.8311688, ymax = 722.2857143) representing A man in profile, speaking with his left hand resting on the table, expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 716.8831169, xmax = 951.2727273, ymin = 320.8311688, ymax = 722.2857143) representing A man in profile, speaking with his left hand resting on the table, expresses Anger"
+    },
+    "11": {
+        "image_file": "HECO_0007.png",
+        "caption": "The image region defined by the coordinates (xmin = 330.3896104, xmax = 558.1298701, ymin = 173.7142857, ymax = 541.0909091) representing An elderly woman, looking at something, clutching her glasher hands, expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 330.3896104, xmax = 558.1298701, ymin = 173.7142857, ymax = 541.0909091) representing An elderly woman, looking at something, clutching her glasher hands, expresses Anger"
+    },
+    "12": {
+        "image_file": "HECO_0008.png",
+        "caption": "The image region defined by the coordinates (xmin = 242.2857143, xmax = 405.1948052, ymin = 83.94805195, ymax = 441.3506494) representing A girl standing and looking at the camera, holding an object in her hand, expresses Sadness",
+        "foil": "The image region defined by the coordinates (xmin = 242.2857143, xmax = 405.1948052, ymin = 83.94805195, ymax = 441.3506494) representing A girl standing and looking at the camera, holding an object in her hand, expresses Happiness"
+    },
+    "13": {
+        "image_file": "HECO_0008.png",
+        "caption": "The image region defined by the coordinates (xmin = 442.5974026, xmax = 685.2987013, ymin = 72.31168831, ymax = 462.961039) representing A boy with his hands resting on the table and a focused look, expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 442.5974026, xmax = 685.2987013, ymin = 72.31168831, ymax = 462.961039) representing A boy with his hands resting on the table and a focused look, expresses Excitement"
+    },
+    "14": {
+        "image_file": "HECO_0008.png",
+        "caption": "The image region defined by the coordinates (xmin = 704.4155844, xmax = 1007.792208, ymin = 221.9220779, ymax = 595.1168831) representing A young man sitting with a cigarette in his hand,engaged conversation, expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 704.4155844, xmax = 1007.792208, ymin = 221.9220779, ymax = 595.1168831) representing A young man sitting with a cigarette in his hand,engaged conversation, expresses Anger"
+    },
+    "15": {
+        "image_file": "HECO_0009.png",
+        "caption": "The image region defined by the coordinates (xmin = 239.5470277, xmax = 583.9769951, ymin = 47.65367965, ymax = 855.5497835) representing A man pedaling on a stationary bike, his teeth showing and hhis face contorted in effort., expresses Anger",
+        "foil": "The image region defined by the coordinates (xmin = 239.5470277, xmax = 583.9769951, ymin = 47.65367965, ymax = 855.5497835) representing A man pedaling on a stationary bike, his teeth showing and hhis face contorted in effort., expresses Peace"
+    },
+    "16": {
+        "image_file": "HECO_0010.png",
+        "caption": "The image region defined by the coordinates (xmin = 30.3459683, xmax = 207.4817367, ymin = 108.2203796, ymax = 529.4166986) with description = \" A man with his back turned, talking on the phone. \", expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 30.3459683, xmax = 207.4817367, ymin = 108.2203796, ymax = 529.4166986) with description = \" A man with his back turned, talking on the phone. \", expresses Anger"
+    },
+    "17": {
+        "image_file": "HECO_0010.png",
+        "caption": "The image region defined by the coordinates (xmin = 692.3115093, xmax = 836.2784287, ymin = 106.1038152, ymax = 459.5700729) with description = \" A man in profile, looking straight ahead. \", expresses Sadness",
+        "foil": "The image region defined by the coordinates (xmin = 692.3115093, xmax = 836.2784287, ymin = 106.1038152, ymax = 459.5700729) with description = \" A man in profile, looking straight ahead. \", expresses Happiness"
+    },
+    "18": {
+        "image_file": "HECO_0011.png",
+        "caption": "The image region defined by the coordinates (xmin = 121.7662338, xmax = 482.4935065, ymin = 161.2467532, ymax = 764.6753247) with description = \" A woman sitting and facing forward, looking down at the ground. In front of her is a small table with a bottle of water and a microphone on it. \", expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 121.7662338, xmax = 482.4935065, ymin = 161.2467532, ymax = 764.6753247) with description = \" A woman sitting and facing forward, looking down at the ground. In front of her is a small table with a bottle of water and a microphone on it. \", expresses Anger"
+    },
+    "19": {
+        "image_file": "HECO_0011.png",
+        "caption": "The image region defined by the coordinates (xmin = 612.5714286, xmax = 984.5194805, ymin = 113.8701299, ymax = 750.5454545) with description = \" A man sitting and facing forward with his legs crossed, holding a microphone in one hand while the other rests on his leg. He is giving a speech. \", expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 612.5714286, xmax = 984.5194805, ymin = 113.8701299, ymax = 750.5454545) with description = \" A man sitting and facing forward with his legs crossed, holding a microphone in one hand while the other rests on his leg. He is giving a speech. \", expresses Anger"
+    },
+    "20": {
+        "image_file": "HECO_0012.png",
+        "caption": "The image region defined by the coordinates (xmin = 326.1193386, xmax = 615.5916607, ymin = 90.51948052, ymax = 618.1818182) with description = \" A woman sitting in profile, with her elbows resting on the table and her hands touching her neck while clutching a pen. She is smiling broadly \", expresses Excitement",
+        "foil": "The image region defined by the coordinates (xmin = 326.1193386, xmax = 615.5916607, ymin = 90.51948052, ymax = 618.1818182) with description = \" A woman sitting in profile, with her elbows resting on the table and her hands touching her neck while clutching a pen. She is smiling broadly \", expresses Disgust"
+    }
+}
