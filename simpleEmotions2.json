@@ -103,5 +103,90 @@
         "image_file": "HECO_0012.png",
         "caption": "The image region defined by the coordinates (xmin = 326.1193386, xmax = 615.5916607, ymin = 90.51948052, ymax = 618.1818182) with description = \" A woman sitting in profile, with her elbows resting on the table and her hands touching her neck while clutching a pen. She is smiling broadly \", expresses Excitement",
         "foil": "The image region defined by the coordinates (xmin = 326.1193386, xmax = 615.5916607, ymin = 90.51948052, ymax = 618.1818182) with description = \" A woman sitting in profile, with her elbows resting on the table and her hands touching her neck while clutching a pen. She is smiling broadly \", expresses Disgust"
+    },
+    "21": {
+        "image_file": "HECO_0012.png",
+        "caption": "The image region defined by the coordinates (xmin = 750.3091301, xmax = 1019.744069, ymin = 181.038961, ymax = 510.7359307) with description = \" A woman seated, facing the camera with a smile on her face. \", expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 750.3091301, xmax = 1019.744069, ymin = 181.038961, ymax = 510.7359307) with description = \" A woman seated, facing the camera with a smile on her face. \", expresses Sadness"
+    },
+    "22": {
+        "image_file": "HECO_0013.png",
+        "caption": "The image region defined by the coordinates (xmin = 504.9636217, xmax = 1016.485044, ymin = 113.4253247, ymax = 760.0324675) with description = \" A man facing the camera with his head slightly tilted to the left, his lips upturned in a smile. A hand from another person, not fully visible, rests firmly on his shoulder. \", expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 504.9636217, xmax = 1016.485044, ymin = 113.4253247, ymax = 760.0324675) with description = \" A man facing the camera with his head slightly tilted to the left, his lips upturned in a smile. A hand from another person, not fully visible, rests firmly on his shoulder. \", expresses Sadness"
+    },
+    "23": {
+        "image_file": "HECO_0013.png",
+        "caption": "The image region defined by the coordinates (xmin = 158.0468876, xmax = 492.4818108, ymin = 252.5162338, ymax = 758.3766234) with description = \" A man looking at the camera with his head tilted upward, his mouth closed and the corners turned downward. \", expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 158.0468876, xmax = 492.4818108, ymin = 252.5162338, ymax = 758.3766234) with description = \" A man looking at the camera with his head tilted upward, his mouth closed and the corners turned downward. \", expresses Excitement"
+    },
+    "24": {
+        "image_file": "HECO_0014.png",
+        "caption": "The image region defined by the coordinates (xmin = 11.66406926, xmax = 560.4571429, ymin = 7.090909091, ymax = 811.9090909) with description = \" A woman facing the camera, crouching down with her arms extended as if petting an animal that remains outside the frame. Her face is clearly visible, with her mouth open in a wide smile. \", expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 11.66406926, xmax = 560.4571429, ymin = 7.090909091, ymax = 811.9090909) with description = \" A woman facing the camera, crouching down with her arms extended as if petting an animal that remains outside the frame. Her face is clearly visible, with her mouth open in a wide smile. \", expresses Sadness"
+    },
+    "25": {
+        "image_file": "HECO_0015.png",
+        "caption": "The image region defined by the coordinates (xmin = 63.79175705, xmax = 430.2993492, ymin = 141.3896104, ymax = 660.3116883) with description = \" A man sitting on a chair, looking toward something or someone off-camera. He has one arm bent, and a child is visible in the background, positioned at a distance behind the man's arm \", expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 63.79175705, xmax = 430.2993492, ymin = 141.3896104, ymax = 660.3116883) with description = \" A man sitting on a chair, looking toward something or someone off-camera. He has one arm bent, and a child is visible in the background, positioned at a distance behind the man's arm \", expresses Excitement"
+    },
+    "26": {
+        "image_file": "HECO_0015.png",
+        "caption": "The image region defined by the coordinates (xmin = 439.1843818, xmax = 699.8120029, ymin = 163.5974026, ymax = 598.1298701) with description = \" A man sitting on a chair, his gaze fixed on someone or something off-camera. His arms are crossed and resting against the chair, with a cigarette held in one of his hands. \", expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 439.1843818, xmax = 699.8120029, ymin = 163.5974026, ymax = 598.1298701) with description = \" A man sitting on a chair, his gaze fixed on someone or something off-camera. His arms are crossed and resting against the chair, with a cigarette held in one of his hands. \", expresses Excitement"
+    },
+    "27": {
+        "image_file": "HECO_0016.png",
+        "caption": "The image region defined by the coordinates (xmin = 79.74638181, xmax = 262.5279118, ymin = 117.176922, ymax = 547.6857716) with description = \" A woman on a bicycle, seen in profile. Her gaze is fixed intently on the road ahead. \", expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 79.74638181, xmax = 262.5279118, ymin = 117.176922, ymax = 547.6857716) with description = \" A woman on a bicycle, seen in profile. Her gaze is fixed intently on the road ahead. \", expresses Excitement"
+    },
+    "28": {
+        "image_file": "HECO_0016.png",
+        "caption": "The image region defined by the coordinates (xmin = 503.8842178, xmax = 673.9627843, ymin = 22.60612555, ymax = 404.4180725) with description = \" A man on a bicycle, seen in profile. His hands are off the handlebars, and one of them is held to his mouth. He appears distracted. \", expresses Sadness",
+        "foil": "The image region defined by the coordinates (xmin = 503.8842178, xmax = 673.9627843, ymin = 22.60612555, ymax = 404.4180725) with description = \" A man on a bicycle, seen in profile. His hands are off the handlebars, and one of them is held to his mouth. He appears distracted. \", expresses Happiness"
+    },
+    "29": {
+        "image_file": "HECO_0017.png",
+        "caption": "The image region defined by the coordinates (xmin = 212.9283668, xmax = 432.252149, ymin = 172.4350649, ymax = 362.4805195) with description = \" A man sitting with his hand on the table, speaking to people who are outside the frame. \", expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 212.9283668, xmax = 432.252149, ymin = 172.4350649, ymax = 362.4805195) with description = \" A man sitting with his hand on the table, speaking to people who are outside the frame. \", expresses Anger"
+    },
+    "30": {
+        "image_file": "HECO_0017.png",
+        "caption": "The image region defined by the coordinates (xmin = 584.6189112, xmax = 764.5386819, ymin = 148.9545455, ymax = 342.6688312) with description = \" A man is sitting with his hand on the table. His gaze is focused. \", expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 584.6189112, xmax = 764.5386819, ymin = 148.9545455, ymax = 342.6688312) with description = \" A man is sitting with his hand on the table. His gaze is focused. \", expresses Anger"
+    },
+    "31": {
+        "image_file": "HECO_0017.png",
+        "caption": "The image region defined by the coordinates (xmin = 804.6286161, xmax = 931.9280688, ymin = 163.6340393, ymax = 358.9492695) with description = \" A man is sitting; his eyebrows are pulled slightly inward and down, and his eyes are narrowed as he stares fixedly at a single point. \", expresses Anger",
+        "foil": "The image region defined by the coordinates (xmin = 804.6286161, xmax = 931.9280688, ymin = 163.6340393, ymax = 358.9492695) with description = \" A man is sitting; his eyebrows are pulled slightly inward and down, and his eyes are narrowed as he stares fixedly at a single point. \", expresses Peace"
+    },
+    "32": {
+        "image_file": "HECO_0018.png",
+        "caption": "The image region defined by the coordinates (xmin = 682.4314266, xmax = 777.7036527, ymin = 175.6171875, ymax = 389.4005208) with description = \" His mouth is open and he is laughing. \", expresses Surprise",
+        "foil": "The image region defined by the coordinates (xmin = 682.4314266, xmax = 777.7036527, ymin = 175.6171875, ymax = 389.4005208) with description = \" His mouth is open and he is laughing. \", expresses Fear"
+    },
+    "33": {
+        "image_file": "HECO_0018.png",
+        "caption": "The image region defined by the coordinates (xmin = 239.9448656, xmax = 399.4376292, ymin = 171.3838542, ymax = 409.8616319) with description = \" She is laughing with her mouth wide open. Her facial muscles are contracted, and her arms are lowered \", expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 239.9448656, xmax = 399.4376292, ymin = 171.3838542, ymax = 409.8616319) with description = \" She is laughing with her mouth wide open. Her facial muscles are contracted, and her arms are lowered \", expresses Excitement"
+    },
+    "34": {
+        "image_file": "HECO_0018.png",
+        "caption": "The image region defined by the coordinates (xmin = 498.9441764, xmax = 654.9083391, ymin = 162.2116319, ymax = 330.8394097) with description = \" His arm is on the table, and his hand is touching a beer glass. His gaze is directed downward, and he appears to be distracted. \", expresses Anger",
+        "foil": "The image region defined by the coordinates (xmin = 498.9441764, xmax = 654.9083391, ymin = 162.2116319, ymax = 330.8394097) with description = \" His arm is on the table, and his hand is touching a beer glass. His gaze is directed downward, and he appears to be distracted. \", expresses Peace"
+    },
+    "35": {
+        "image_file": "HECO_0019.png",
+        "caption": "The image region defined by the coordinates (xmin = 598.4507236, xmax = 984.4796692, ymin = 3.186851343, ymax = 571.3065095) with description = \" He is smiling, and his facial muscles are contracted. His right arm is lowered, while his left arm is embracing someone who is not visible in the scene. \", expresses Excitement",
+        "foil": "The image region defined by the coordinates (xmin = 598.4507236, xmax = 984.4796692, ymin = 3.186851343, ymax = 571.3065095) with description = \" He is smiling, and his facial muscles are contracted. His right arm is lowered, while his left arm is embracing someone who is not visible in the scene. \", expresses Disgust"
+    },
+    "36": {
+        "image_file": "HECO_0019.png",
+        "caption": "The image region defined by the coordinates (xmin = 115.0323915, xmax = 574.4562371, ymin = 28.59344475, ymax = 568.4835546) with description = \" He is smiling with his facial muscles contracted. He is holding the dog by supporting its neck with his hand and cradling its body with his arm. \", expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 115.0323915, xmax = 574.4562371, ymin = 28.59344475, ymax = 568.4835546) with description = \" He is smiling with his facial muscles contracted. He is holding the dog by supporting its neck with his hand and cradling its body with his arm. \", expresses Sadness"
+    },
+    "37": {
+        "image_file": "HECO_0020.png",
+        "caption": "The image region defined by the coordinates (xmin = 10.70652394, xmax = 310.0734071, ymin = 294.7878788, ymax = 753.5930736) with description = \" His facial muscles are slightly contracted and he is smiling. He is working on his PC. \", expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 10.70652394, xmax = 310.0734071, ymin = 294.7878788, ymax = 753.5930736) with description = \" His facial muscles are slightly contracted and he is smiling. He is working on his PC. \", expresses Sadness"
     }
 }
