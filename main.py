@@ -178,7 +178,7 @@ class JsonGenerator:
         for i,row in db.iterrows():
             #Continua da rowNumber(Serve per continuare da dove ci eravamo fermati)
             if i < rowNumber : continue
-            print("Campione: ",i)
+            print("Campione: ",i,"Emozione classificata: ",row["Category"])
             
             #Immagine
             xmin,ymin,xmax,ymax = int(row["xmin"]),int(row["ymin"]),int(row["xmax"]),int(row["ymax"])
