@@ -62,85 +62,91 @@ class JsonGenerator:
         self.opposites = opposites
 
     #Resituisce una coppia [caption,foil] diversa in base all'id passato
-    def getCaptionFoil(self,row,id,description = " "):
+    def getCaptionFoil(self,row,id):
+        '''
+        row : dictionary
+        id  : int (0,1,2) Permette di scegliere il tipo di (caption,foil) che vogliamo
+        desctiption : nel caso dell' id = 2, la descrizione viene utilizzata all'interno della caption
+        '''
         category = row["Category"]
         match id:
             case 0:
                 caption = f'The image express {category}'
                 foil = f'The image express {emotion_opposites[category]}'
+                
                 return caption,foil
             case 1:
-                xmin = row["xmin"]
-                ymin = row["ymin"]
-                xmax = row["xmax"]
-                ymax = row["ymax"]
-                print("xmin = ",xmin)
+                xmin,ymin,xmax,ymax = int(row["xmin"]),int(row["ymin"]),int(row["xmax"]),int(row["ymax"])
+                
                 caption = f'The image region defined by the coordinates (xmin = {xmin}, xmax = {xmax}, ymin = {ymin}, ymax = {ymax}) expresses {category}'
                 foil = f'The image region defined by the coordinates (xmin = {xmin}, xmax = {xmax}, ymin = {ymin}, ymax = {ymax}) expresses {emotion_opposites[category]}'
-                print(caption, " ",foil," ")
+                
                 return caption,foil
             case 2:
-                #Caption scritta dall'utente
-                xmin = row["xmin"]
-                ymin = row["ymin"]
-                xmax = row["xmax"]
-                ymax = row["ymax"]
-                print("xmin = ",xmin)
+                
+                xmin,ymin,xmax,ymax = int(row["xmin"]),int(row["ymin"]),int(row["xmax"]),int(row["ymax"])
+                currentPath = f'{self.imgPath}{row["Image"]}'
+
+                #Lettura dell'immagine
+                img = cv2.imread(currentPath)
+                #Disegno un rettangolo all'interno dell'immagine di coordinate (xmin,ymin) (xmax,ymax) 
+                cv2.rectangle(img, (xmin,ymin),(xmax,ymax), (0, 255, 0), 5)  # verde, spessore 2
+                #Mostro l' immagine all'utente
+                cv2.imshow("Finestra",img)
+                cv2.waitKey(0)
+                #Chiedo di descrivere ciò che si vede nel rettangolo
+                description = input("Descrivi brevemente l'immagine mostrata \n")
+                cv2.destroyAllWindows()
+
+                #Controllo segnale di stop da parte dell'utente
+                if description == "0" : return "0","0"
+                #Unisco il tutto
                 caption = f'The image region defined by the coordinates (xmin = {xmin}, xmax = {xmax}, ymin = {ymin}, ymax = {ymax}) with description = " {description} ", expresses {category}'
                 foil = f'The image region defined by the coordinates (xmin = {xmin}, xmax = {xmax}, ymin = {ymin}, ymax = {ymax}) with description = " {description} ", expresses {emotion_opposites[category]}'
                 print(caption, " ",foil," ")
+                
                 return caption,foil
-                
-                
-
-               
         
-        
-    def checkDuplicate(self,image,duplicate,analizzati):
-        if not duplicate : return False
-        if image in analizzati : return True
-        return False
-        
-    def SimpleEmotionDataset(self,id,duplicate : bool):
+    def SimpleEmotionDataset(self,id : int,numberOfElements = 80):
         '''
-            Struttura: The image express {emotion}
+            id : struttura della coppia (caption,foil) (0,1,2)
         '''
-        jsonDataset = {}
+        
+        jsonDataset,start = self.update(id)
+        founds = 0
+        
         #Estrazione dati dal database
         db = pd.read_csv(self.databasePath)
 
-        j = -1
-        founds = 0
-        analizzati = []
-        
         for i,row in db.iterrows():
-            if self.checkDuplicate(row["Image"],duplicate,analizzati) : continue
+
+            #Controlli
+            if i < start : continue
+            if i == numberOfElements : break
             if imageNotFound(row["Image"]) : continue
-            founds += 1
-                
-            j+=1
-            analizzati.append(row["Image"])
+            
+            #founds += 1   
             #Costruzione caption e foil
             caption,foil = self.getCaptionFoil(row,id)
 
+            #Segnale di stop
+            if caption == "0" : break
+            
             #Costruzione campione
             data = {
                 "image_file" : row["Image"],
                 "caption"    : caption,
                 "foil"       : foil 
             }
+            #Aggiunta del campione i-esimo al dataset
+            jsonDataset[str(i)] = data
 
-            jsonDataset[str(j)] = data
+        #Trascrizione del dataset su file
+        self.save(jsonDataset,id)
 
+
+    def update(self,id):
         name = f'simpleEmotions{id}.json'
-        with open(name,"a") as file:
-            json.dump(jsonDataset,file,indent=4)
-
-        #print("founds = ",founds)
-
-
-    def update(self):
-        name = f'simpleEmotions{2}.json'
         #Da che riga devo iniziare?
         start = 0
         #Se il file esiste già allora devo continuare ad aggiungere dati
@@ -157,9 +163,9 @@ class JsonGenerator:
         return data,start
         
 
-    def save(self,jsonDataset):
+    def save(self,jsonDataset,id):
         print("--Salvataggio in corso--")
-        name = f'simpleEmotions{2}.json'
+        name = f'simpleEmotions{id}.json'
         with open(name,"w") as file:
             json.dump(jsonDataset,file,indent=4)
         print("--Salvataggio avvenuto con successo--")
@@ -223,9 +229,9 @@ while True:
     scelta = int(input())
 
     if(scelta == 2) :
-        emot1.HumanEmotionDataset()
-    else :
-        emot1.SimpleEmotionDataset(scelta,False)
+        emot1.SimpleEmotionDataset(scelta,80)
+    else:
+        emot1.SimpleEmotionDataset(scelta,80)
 
 
 
