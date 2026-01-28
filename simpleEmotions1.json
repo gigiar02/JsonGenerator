@@ -398,5 +398,105 @@
         "image_file": "HECO_0042.png",
         "caption": "The image region defined by the coordinates (xmin = 643, xmax = 1024, ymin = 183, ymax = 758) expresses Sadness",
         "foil": "The image region defined by the coordinates (xmin = 643, xmax = 1024, ymin = 183, ymax = 758) expresses Happiness"
+    },
+    "80": {
+        "image_file": "HECO_0043.png",
+        "caption": "The image region defined by the coordinates (xmin = 281, xmax = 740, ymin = 65, ymax = 917) expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 281, xmax = 740, ymin = 65, ymax = 917) expresses Anger"
+    },
+    "81": {
+        "image_file": "HECO_0044.png",
+        "caption": "The image region defined by the coordinates (xmin = 45, xmax = 464, ymin = 177, ymax = 674) expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 45, xmax = 464, ymin = 177, ymax = 674) expresses Anger"
+    },
+    "82": {
+        "image_file": "HECO_0044.png",
+        "caption": "The image region defined by the coordinates (xmin = 746, xmax = 1024, ymin = 121, ymax = 663) expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 746, xmax = 1024, ymin = 121, ymax = 663) expresses Anger"
+    },
+    "83": {
+        "image_file": "HECO_0045.png",
+        "caption": "The image region defined by the coordinates (xmin = 589, xmax = 834, ymin = 72, ymax = 592) expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 589, xmax = 834, ymin = 72, ymax = 592) expresses Excitement"
+    },
+    "84": {
+        "image_file": "HECO_0045.png",
+        "caption": "The image region defined by the coordinates (xmin = 161, xmax = 302, ymin = 0, ymax = 576) expresses Anger",
+        "foil": "The image region defined by the coordinates (xmin = 161, xmax = 302, ymin = 0, ymax = 576) expresses Peace"
+    },
+    "85": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image region defined by the coordinates (xmin = 366, xmax = 514, ymin = 357, ymax = 725) expresses Surprise",
+        "foil": "The image region defined by the coordinates (xmin = 366, xmax = 514, ymin = 357, ymax = 725) expresses Fear"
+    },
+    "86": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image region defined by the coordinates (xmin = 528, xmax = 644, ymin = 392, ymax = 723) expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 528, xmax = 644, ymin = 392, ymax = 723) expresses Excitement"
+    },
+    "87": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image region defined by the coordinates (xmin = 845, xmax = 951, ymin = 368, ymax = 706) expresses Anger",
+        "foil": "The image region defined by the coordinates (xmin = 845, xmax = 951, ymin = 368, ymax = 706) expresses Peace"
+    },
+    "88": {
+        "image_file": "HECO_0047.png",
+        "caption": "The image region defined by the coordinates (xmin = 19, xmax = 364, ymin = 182, ymax = 695) expresses Anger",
+        "foil": "The image region defined by the coordinates (xmin = 19, xmax = 364, ymin = 182, ymax = 695) expresses Peace"
+    },
+    "89": {
+        "image_file": "HECO_0047.png",
+        "caption": "The image region defined by the coordinates (xmin = 657, xmax = 1023, ymin = 6, ymax = 698) expresses Disgust",
+        "foil": "The image region defined by the coordinates (xmin = 657, xmax = 1023, ymin = 6, ymax = 698) expresses Excitement"
+    },
+    "90": {
+        "image_file": "HECO_0048.png",
+        "caption": "The image region defined by the coordinates (xmin = 312, xmax = 671, ymin = 138, ymax = 620) expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 312, xmax = 671, ymin = 138, ymax = 620) expresses Anger"
+    },
+    "91": {
+        "image_file": "HECO_0049.png",
+        "caption": "The image region defined by the coordinates (xmin = 416, xmax = 865, ymin = 133, ymax = 677) expresses Sadness",
+        "foil": "The image region defined by the coordinates (xmin = 416, xmax = 865, ymin = 133, ymax = 677) expresses Happiness"
+    },
+    "92": {
+        "image_file": "HECO_0050.png",
+        "caption": "The image region defined by the coordinates (xmin = 63, xmax = 424, ymin = 161, ymax = 999) expresses Excitement",
+        "foil": "The image region defined by the coordinates (xmin = 63, xmax = 424, ymin = 161, ymax = 999) expresses Disgust"
+    },
+    "93": {
+        "image_file": "HECO_0051.png",
+        "caption": "The image region defined by the coordinates (xmin = 21, xmax = 427, ymin = 202, ymax = 883) expresses Sadness",
+        "foil": "The image region defined by the coordinates (xmin = 21, xmax = 427, ymin = 202, ymax = 883) expresses Happiness"
+    },
+    "94": {
+        "image_file": "HECO_0052.png",
+        "caption": "The image region defined by the coordinates (xmin = 101, xmax = 576, ymin = 47, ymax = 941) expresses Surprise",
+        "foil": "The image region defined by the coordinates (xmin = 101, xmax = 576, ymin = 47, ymax = 941) expresses Fear"
+    },
+    "95": {
+        "image_file": "HECO_0053.png",
+        "caption": "The image region defined by the coordinates (xmin = 590, xmax = 1021, ymin = 177, ymax = 763) expresses Happiness",
+        "foil": "The image region defined by the coordinates (xmin = 590, xmax = 1021, ymin = 177, ymax = 763) expresses Sadness"
+    },
+    "96": {
+        "image_file": "HECO_0053.png",
+        "caption": "The image region defined by the coordinates (xmin = 0, xmax = 398, ymin = 125, ymax = 757) expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 0, xmax = 398, ymin = 125, ymax = 757) expresses Anger"
+    },
+    "97": {
+        "image_file": "HECO_0054.png",
+        "caption": "The image region defined by the coordinates (xmin = 28, xmax = 508, ymin = 0, ymax = 1014) expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 28, xmax = 508, ymin = 0, ymax = 1014) expresses Anger"
+    },
+    "98": {
+        "image_file": "HECO_0055.png",
+        "caption": "The image region defined by the coordinates (xmin = 239, xmax = 717, ymin = 97, ymax = 1009) expresses Sadness",
+        "foil": "The image region defined by the coordinates (xmin = 239, xmax = 717, ymin = 97, ymax = 1009) expresses Happiness"
+    },
+    "99": {
+        "image_file": "HECO_0056.png",
+        "caption": "The image region defined by the coordinates (xmin = 25, xmax = 640, ymin = 30, ymax = 610) expresses Peace",
+        "foil": "The image region defined by the coordinates (xmin = 25, xmax = 640, ymin = 30, ymax = 610) expresses Anger"
     }
 }

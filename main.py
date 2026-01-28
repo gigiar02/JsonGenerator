@@ -48,7 +48,7 @@ def imageNotFound(img : str):
 
     
 class JsonGenerator:
-
+    
     def __init__(self,databasePath : str,imgPath : str,opposites):
     
         '''
@@ -61,11 +61,30 @@ class JsonGenerator:
         self.imgPath = imgPath
         self.opposites = opposites
 
-    #Resituisce una coppia [caption,foil] diversa in base all'id passato
+    #Ad ogni emozione associa una descrizione testuale
+    def getDescriptionByEmotion(self,emotion):
+        if emotion == "Peace":
+            return "A person with relaxed facial features and a soft gaze."
+        if emotion == "Anger":
+            return "A person with tense muscles and a firm jaw."
+        if emotion == "Happiness":
+            return "A person with lifted corners of the mouth and bright eyes."
+        if emotion == "Excitement":
+            return "A person with wide eyes and raised eyebrows."
+        if emotion == "Fear":
+            return "A person with widened eyes and slightly pulled-back posture."
+        if emotion == "Sadness":
+            return "A person with lowered eyelids and a downturned mouth."
+        if emotion == "Surprise":
+            return "A person with raised eyebrows and slightly open mouth."
+        if emotion == "Disgust":
+            return "A person with a wrinkled nose and tightened lips"
+            
+    #Resituisce una coppia [caption,foil] strutturata in modo diverso in base all'id passato
     def getCaptionFoil(self,row,id):
         '''
         row : dictionary
-        id  : int (0,1,2) Permette di scegliere il tipo di (caption,foil) che vogliamo
+        id  : int (0,1,2,3) Permette di scegliere il tipo di (caption,foil) che vogliamo
         desctiption : nel caso dell' id = 2, la descrizione viene utilizzata all'interno della caption
         '''
         category = row["Category"]
@@ -106,14 +125,23 @@ class JsonGenerator:
                 print(caption, " ",foil," ")
                 
                 return caption,foil
-        
+            case 3:
+               xmin,ymin,xmax,ymax = int(row["xmin"]),int(row["ymin"]),int(row["xmax"]),int(row["ymax"])
+               descr = self.getDescriptionByEmotion(category)
+               caption = f'The image region (xmin = {xmin}, xmax = {xmax}, ymin = {ymin}, ymax = {ymax}), with description = {descr} expresses {category}'
+               foil = f'The image region (xmin = {xmin}, xmax = {xmax}, ymin = {ymin}, ymax = {ymax}), with description = {descr} expresses {emotion_opposites[category]}'
+               return caption,foil
+               
+    #Crea un emotionDataset in formato json a partire da un dataset csv: {xmin,ymin,xmax,ymax(numbers),caption,foil(stringhe)}    
     def SimpleEmotionDataset(self,id : int,numberOfElements = 80):
         '''
-            id : struttura della coppia (caption,foil) (0,1,2)
+            id : struttura della coppia (caption,foil) (0,1,2,3)
         '''
-        
+
+        #Prendo le tuple esistenti
         jsonDataset,start = self.update(id)
         founds = 0
+        j = 0
         
         #Estrazione dati dal database
         db = pd.read_csv(self.databasePath)
@@ -124,6 +152,9 @@ class JsonGenerator:
             if i < start : continue
             if i == numberOfElements : break
             if imageNotFound(row["Image"]) : continue
+
+            print("Campione: ",i,"Emozione classificata: ",row["Category"])
+
             
             #founds += 1   
             #Costruzione caption e foil
@@ -144,7 +175,7 @@ class JsonGenerator:
         #Trascrizione del dataset su file
         self.save(jsonDataset,id)
 
-
+    #Evito di sovrascrivere i dati ogni volta
     def update(self,id):
         name = f'simpleEmotions{id}.json'
         #Da che riga devo iniziare?
@@ -162,76 +193,36 @@ class JsonGenerator:
             
         return data,start
         
-
+    #Salvo il lavoro svolto
     def save(self,jsonDataset,id):
         print("--Salvataggio in corso--")
         name = f'simpleEmotions{id}.json'
         with open(name,"w") as file:
             json.dump(jsonDataset,file,indent=4)
         print("--Salvataggio avvenuto con successo--")
-            
-        
-    def HumanEmotionDataset(self):
-        '''
-            Permette all'utente di creare delle caption riutilizzabili
-            L'utente può salvare la sua sessione in qualsiasi momento e decidere cosi di uscire (Basta passare "0")
-            Ad ogni passo all'utente viene mostrata un'immagine e gli viene chiesto di descrivere una sottoporzione precisa dell'immagine
-        '''
-        db = pd.read_csv(self.databasePath)
-        
-        jsonDataset,rowNumber = self.update()
-        #Scorro le righe del database
-        for i,row in db.iterrows():
-            #Continua da rowNumber(Serve per continuare da dove ci eravamo fermati)
-            if i < rowNumber : continue
-            print("Campione: ",i,"Emozione classificata: ",row["Category"])
-            
-            #Immagine
-            xmin,ymin,xmax,ymax = int(row["xmin"]),int(row["ymin"]),int(row["xmax"]),int(row["ymax"])
-            currentPath = f'{self.imgPath}{row["Image"]}'
-            img = cv2.imread(currentPath)
-            cv2.rectangle(img, (xmin,ymin),(xmax,ymax), (0, 255, 0), 5)  # verde, spessore 2
-            cv2.imshow("Finestra",img)
-            cv2.waitKey(0)
-            description = input("Descrivi brevemente l'immagine mostrata \n")
-            cv2.destroyAllWindows()
-            if description == "0" : break
-            
-            caption,foil = self.getCaptionFoil(row,2,description)
-            
-            #Costruzione campione
-            data = {
-                "image_file" : row["Image"],
-                "caption"    : caption,
-                "foil"       : foil 
-            }
-
-            jsonDataset[str(i)] = data
-            
-        self.save(jsonDataset)
-
-    
-            
-            
-            
-            
-        
 
 
 
+            
 emot1 = JsonGenerator(path,imgPath,emotion_opposites)
 while True:
+    #Opzioni
     print("Benvenuto all' interno del generatore di dataset json")
+    print("exit : termina l' esecuzione del programma")
     print("0 : Generazione emotionDataset- The image express [emozione]")
     print("1 : Generazione emotionDataset- The image region defined by the coordinates (xmin, xmax, ymin, ymax) expresses [emotion]")
     print("2 : Generazione emotionDataset- Uguale alla 1 con l'aggiunta di una descrizione, scritta dall'utente.")
+    print("3 : Generazione emotionDataset- Uguale alla 2 ad eccezzione del fatto che la descrizione è associata all'emozione")
+    #Prendo la scelta dell'utente
+    scelta = input()
     
-    scelta = int(input())
+    #Termina l' esecuzione del programma
+    if scelta == "exit" : break
 
-    if(scelta == 2) :
-        emot1.SimpleEmotionDataset(scelta,80)
-    else:
-        emot1.SimpleEmotionDataset(scelta,80)
+    #Creazione del dataset
+    scelta = int(scelta)
+    emot1.SimpleEmotionDataset(scelta,100)
+   
 
 
 

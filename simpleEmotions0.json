@@ -1,0 +1,502 @@
+{
+    "0": {
+        "image_file": "HECO_0001.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "1": {
+        "image_file": "HECO_0002.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "2": {
+        "image_file": "HECO_0002.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "3": {
+        "image_file": "HECO_0003.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "4": {
+        "image_file": "HECO_0004.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "5": {
+        "image_file": "HECO_0005.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "6": {
+        "image_file": "HECO_0005.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "7": {
+        "image_file": "HECO_0006.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "8": {
+        "image_file": "HECO_0006.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "9": {
+        "image_file": "HECO_0006.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "10": {
+        "image_file": "HECO_0007.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "11": {
+        "image_file": "HECO_0007.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "12": {
+        "image_file": "HECO_0008.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "13": {
+        "image_file": "HECO_0008.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "14": {
+        "image_file": "HECO_0008.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "15": {
+        "image_file": "HECO_0009.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "16": {
+        "image_file": "HECO_0010.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "17": {
+        "image_file": "HECO_0010.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "18": {
+        "image_file": "HECO_0011.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "19": {
+        "image_file": "HECO_0011.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "20": {
+        "image_file": "HECO_0012.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "21": {
+        "image_file": "HECO_0012.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "22": {
+        "image_file": "HECO_0013.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "23": {
+        "image_file": "HECO_0013.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "24": {
+        "image_file": "HECO_0014.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "25": {
+        "image_file": "HECO_0015.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "26": {
+        "image_file": "HECO_0015.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "27": {
+        "image_file": "HECO_0016.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "28": {
+        "image_file": "HECO_0016.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "29": {
+        "image_file": "HECO_0017.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "30": {
+        "image_file": "HECO_0017.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "31": {
+        "image_file": "HECO_0017.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "32": {
+        "image_file": "HECO_0018.png",
+        "caption": "The image express Surprise",
+        "foil": "The image express Fear"
+    },
+    "33": {
+        "image_file": "HECO_0018.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "34": {
+        "image_file": "HECO_0018.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "35": {
+        "image_file": "HECO_0019.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "36": {
+        "image_file": "HECO_0019.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "37": {
+        "image_file": "HECO_0020.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "38": {
+        "image_file": "HECO_0020.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "39": {
+        "image_file": "HECO_0021.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "40": {
+        "image_file": "HECO_0022.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "41": {
+        "image_file": "HECO_0022.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "42": {
+        "image_file": "HECO_0023.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "43": {
+        "image_file": "HECO_0024.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "44": {
+        "image_file": "HECO_0025.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "45": {
+        "image_file": "HECO_0025.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "46": {
+        "image_file": "HECO_0026.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "47": {
+        "image_file": "HECO_0027.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "48": {
+        "image_file": "HECO_0027.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "49": {
+        "image_file": "HECO_0028.png",
+        "caption": "The image express Surprise",
+        "foil": "The image express Fear"
+    },
+    "50": {
+        "image_file": "HECO_0029.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "51": {
+        "image_file": "HECO_0029.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "52": {
+        "image_file": "HECO_0030.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "53": {
+        "image_file": "HECO_0030.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "54": {
+        "image_file": "HECO_0030.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "55": {
+        "image_file": "HECO_0031.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "56": {
+        "image_file": "HECO_0032.png",
+        "caption": "The image express Surprise",
+        "foil": "The image express Fear"
+    },
+    "57": {
+        "image_file": "HECO_0032.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "58": {
+        "image_file": "HECO_0032.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "59": {
+        "image_file": "HECO_0032.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "60": {
+        "image_file": "HECO_0032.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "61": {
+        "image_file": "HECO_0033.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "62": {
+        "image_file": "HECO_0034.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "63": {
+        "image_file": "HECO_0035.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "64": {
+        "image_file": "HECO_0035.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "65": {
+        "image_file": "HECO_0036.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "66": {
+        "image_file": "HECO_0036.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "67": {
+        "image_file": "HECO_0036.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "68": {
+        "image_file": "HECO_0036.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "69": {
+        "image_file": "HECO_0037.png",
+        "caption": "The image express Surprise",
+        "foil": "The image express Fear"
+    },
+    "70": {
+        "image_file": "HECO_0037.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "71": {
+        "image_file": "HECO_0038.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "72": {
+        "image_file": "HECO_0038.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "73": {
+        "image_file": "HECO_0039.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "74": {
+        "image_file": "HECO_0039.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "75": {
+        "image_file": "HECO_0040.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "76": {
+        "image_file": "HECO_0040.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "77": {
+        "image_file": "HECO_0041.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "78": {
+        "image_file": "HECO_0042.png",
+        "caption": "The image express Surprise",
+        "foil": "The image express Fear"
+    },
+    "79": {
+        "image_file": "HECO_0042.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "80": {
+        "image_file": "HECO_0043.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "81": {
+        "image_file": "HECO_0044.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "82": {
+        "image_file": "HECO_0044.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "83": {
+        "image_file": "HECO_0045.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "84": {
+        "image_file": "HECO_0045.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "85": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image express Surprise",
+        "foil": "The image express Fear"
+    },
+    "86": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "87": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "88": {
+        "image_file": "HECO_0047.png",
+        "caption": "The image express Anger",
+        "foil": "The image express Peace"
+    },
+    "89": {
+        "image_file": "HECO_0047.png",
+        "caption": "The image express Disgust",
+        "foil": "The image express Excitement"
+    },
+    "90": {
+        "image_file": "HECO_0048.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "91": {
+        "image_file": "HECO_0049.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "92": {
+        "image_file": "HECO_0050.png",
+        "caption": "The image express Excitement",
+        "foil": "The image express Disgust"
+    },
+    "93": {
+        "image_file": "HECO_0051.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "94": {
+        "image_file": "HECO_0052.png",
+        "caption": "The image express Surprise",
+        "foil": "The image express Fear"
+    },
+    "95": {
+        "image_file": "HECO_0053.png",
+        "caption": "The image express Happiness",
+        "foil": "The image express Sadness"
+    },
+    "96": {
+        "image_file": "HECO_0053.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "97": {
+        "image_file": "HECO_0054.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    },
+    "98": {
+        "image_file": "HECO_0055.png",
+        "caption": "The image express Sadness",
+        "foil": "The image express Happiness"
+    },
+    "99": {
+        "image_file": "HECO_0056.png",
+        "caption": "The image express Peace",
+        "foil": "The image express Anger"
+    }
+}

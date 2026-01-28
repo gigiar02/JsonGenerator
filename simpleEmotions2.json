@@ -1,412 +1,502 @@
 {
     "0": {
         "image_file": "HECO_0001.png",
-        "caption": "The image region defined by the coordinates (xmin = 575.3415162, xmax = 804.5400722, ymin = 106.4415584, ymax = 537.3820346) representing A woman riding a horse, expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 575.3415162, xmax = 804.5400722, ymin = 106.4415584, ymax = 537.3820346) representing A woman riding a horse, expresses Anger"
+        "caption": "The image region (xmin = 575, xmax = 804, ymin = 106, ymax = 537), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 575, xmax = 804, ymin = 106, ymax = 537), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "1": {
         "image_file": "HECO_0002.png",
-        "caption": "The image region defined by the coordinates (xmin = 213.3333333, xmax = 489.2813853, ymin = 149.6103896, ymax = 616.1731602) representing A woman focused on her camera, expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 213.3333333, xmax = 489.2813853, ymin = 149.6103896, ymax = 616.1731602) representing A woman focused on her camera, expresses Excitement"
+        "caption": "The image region (xmin = 213, xmax = 489, ymin = 149, ymax = 616), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 213, xmax = 489, ymin = 149, ymax = 616), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "2": {
         "image_file": "HECO_0002.png",
-        "caption": "The image region defined by the coordinates (xmin = 527.5151978, xmax = 938.5730591, ymin = 336.5945435, ymax = 1011.344788) representing A person wearing a blue shawl, carrying something on their back, expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 527.5151978, xmax = 938.5730591, ymin = 336.5945435, ymax = 1011.344788) representing A person wearing a blue shawl, carrying something on their back, expresses Anger"
+        "caption": "The image region (xmin = 527, xmax = 938, ymin = 336, ymax = 1011), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 527, xmax = 938, ymin = 336, ymax = 1011), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "3": {
         "image_file": "HECO_0003.png",
-        "caption": "The image region defined by the coordinates (xmin = 630.025974, xmax = 1010.285714, ymin = 192.8311688, ymax = 728.1038961) representing A man in the water holding a drink, expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 630.025974, xmax = 1010.285714, ymin = 192.8311688, ymax = 728.1038961) representing A man in the water holding a drink, expresses Sadness"
+        "caption": "The image region (xmin = 630, xmax = 1010, ymin = 192, ymax = 728), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 630, xmax = 1010, ymin = 192, ymax = 728), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "4": {
         "image_file": "HECO_0004.png",
-        "caption": "The image region defined by the coordinates (xmin = 261.5411255, xmax = 764.6753247, ymin = 247.1341991, ymax = 1022.891775) representing A woman sitting cross-legged, lost in tought, expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 261.5411255, xmax = 764.6753247, ymin = 247.1341991, ymax = 1022.891775) representing A woman sitting cross-legged, lost in tought, expresses Anger"
+        "caption": "The image region (xmin = 261, xmax = 764, ymin = 247, ymax = 1022), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 261, xmax = 764, ymin = 247, ymax = 1022), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "5": {
         "image_file": "HECO_0005.png",
-        "caption": "The image region defined by the coordinates (xmin = 6.041877256, xmax = 508.8, ymin = 123.4426407, ymax = 672.6515152) representing A woman seen in profile, caught mid-speech, expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 6.041877256, xmax = 508.8, ymin = 123.4426407, ymax = 672.6515152) representing A woman seen in profile, caught mid-speech, expresses Sadness"
+        "caption": "The image region (xmin = 6, xmax = 508, ymin = 123, ymax = 672), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 6, xmax = 508, ymin = 123, ymax = 672), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "6": {
         "image_file": "HECO_0005.png",
-        "caption": "The image region defined by the coordinates (xmin = 667.633213, xmax = 990.8563177, ymin = 73.91774892, ymax = 481.9437229) representing A woman smiling, carrying a child, expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 667.633213, xmax = 990.8563177, ymin = 73.91774892, ymax = 481.9437229) representing A woman smiling, carrying a child, expresses Sadness"
+        "caption": "The image region (xmin = 667, xmax = 990, ymin = 73, ymax = 481), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 667, xmax = 990, ymin = 73, ymax = 481), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "7": {
         "image_file": "HECO_0006.png",
-        "caption": "The image region defined by the coordinates (xmin = 94.33766234, xmax = 284.6753247, ymin = 125.5064935, ymax = 725.6103896) representing Man with a cap and white t-shirt, standing-up in the street, expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 94.33766234, xmax = 284.6753247, ymin = 125.5064935, ymax = 725.6103896) representing Man with a cap and white t-shirt, standing-up in the street, expresses Anger"
+        "caption": "The image region (xmin = 94, xmax = 284, ymin = 125, ymax = 725), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 94, xmax = 284, ymin = 125, ymax = 725), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "8": {
         "image_file": "HECO_0006.png",
-        "caption": "The image region defined by the coordinates (xmin = 402.7012987, xmax = 586.3896104, ymin = 108.0519481, ymax = 480.4155844) representing A man standing with a phone in his hand and a camera hanging from his neck, expresses Anger",
-        "foil": "The image region defined by the coordinates (xmin = 402.7012987, xmax = 586.3896104, ymin = 108.0519481, ymax = 480.4155844) representing A man standing with a phone in his hand and a camera hanging from his neck, expresses Peace"
+        "caption": "The image region (xmin = 402, xmax = 586, ymin = 108, ymax = 480), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 402, xmax = 586, ymin = 108, ymax = 480), with description = A person with tense muscles and a firm jaw. expresses Peace"
     },
     "9": {
         "image_file": "HECO_0006.png",
-        "caption": "The image region defined by the coordinates (xmin = 692.3636364, xmax = 904.7272727, ymin = 117.1948052, ymax = 584.3116883) representing A man loocking at the camera with his hands clasped together, expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 692.3636364, xmax = 904.7272727, ymin = 117.1948052, ymax = 584.3116883) representing A man loocking at the camera with his hands clasped together, expresses Sadness"
+        "caption": "The image region (xmin = 692, xmax = 904, ymin = 117, ymax = 584), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 692, xmax = 904, ymin = 117, ymax = 584), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "10": {
         "image_file": "HECO_0007.png",
-        "caption": "The image region defined by the coordinates (xmin = 716.8831169, xmax = 951.2727273, ymin = 320.8311688, ymax = 722.2857143) representing A man in profile, speaking with his left hand resting on the table, expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 716.8831169, xmax = 951.2727273, ymin = 320.8311688, ymax = 722.2857143) representing A man in profile, speaking with his left hand resting on the table, expresses Anger"
+        "caption": "The image region (xmin = 716, xmax = 951, ymin = 320, ymax = 722), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 716, xmax = 951, ymin = 320, ymax = 722), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "11": {
         "image_file": "HECO_0007.png",
-        "caption": "The image region defined by the coordinates (xmin = 330.3896104, xmax = 558.1298701, ymin = 173.7142857, ymax = 541.0909091) representing An elderly woman, looking at something, clutching her glasher hands, expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 330.3896104, xmax = 558.1298701, ymin = 173.7142857, ymax = 541.0909091) representing An elderly woman, looking at something, clutching her glasher hands, expresses Anger"
+        "caption": "The image region (xmin = 330, xmax = 558, ymin = 173, ymax = 541), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 330, xmax = 558, ymin = 173, ymax = 541), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "12": {
         "image_file": "HECO_0008.png",
-        "caption": "The image region defined by the coordinates (xmin = 242.2857143, xmax = 405.1948052, ymin = 83.94805195, ymax = 441.3506494) representing A girl standing and looking at the camera, holding an object in her hand, expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 242.2857143, xmax = 405.1948052, ymin = 83.94805195, ymax = 441.3506494) representing A girl standing and looking at the camera, holding an object in her hand, expresses Happiness"
+        "caption": "The image region (xmin = 242, xmax = 405, ymin = 83, ymax = 441), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 242, xmax = 405, ymin = 83, ymax = 441), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "13": {
         "image_file": "HECO_0008.png",
-        "caption": "The image region defined by the coordinates (xmin = 442.5974026, xmax = 685.2987013, ymin = 72.31168831, ymax = 462.961039) representing A boy with his hands resting on the table and a focused look, expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 442.5974026, xmax = 685.2987013, ymin = 72.31168831, ymax = 462.961039) representing A boy with his hands resting on the table and a focused look, expresses Excitement"
+        "caption": "The image region (xmin = 442, xmax = 685, ymin = 72, ymax = 462), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 442, xmax = 685, ymin = 72, ymax = 462), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "14": {
         "image_file": "HECO_0008.png",
-        "caption": "The image region defined by the coordinates (xmin = 704.4155844, xmax = 1007.792208, ymin = 221.9220779, ymax = 595.1168831) representing A young man sitting with a cigarette in his hand,engaged conversation, expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 704.4155844, xmax = 1007.792208, ymin = 221.9220779, ymax = 595.1168831) representing A young man sitting with a cigarette in his hand,engaged conversation, expresses Anger"
+        "caption": "The image region (xmin = 704, xmax = 1007, ymin = 221, ymax = 595), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 704, xmax = 1007, ymin = 221, ymax = 595), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "15": {
         "image_file": "HECO_0009.png",
-        "caption": "The image region defined by the coordinates (xmin = 239.5470277, xmax = 583.9769951, ymin = 47.65367965, ymax = 855.5497835) representing A man pedaling on a stationary bike, his teeth showing and hhis face contorted in effort., expresses Anger",
-        "foil": "The image region defined by the coordinates (xmin = 239.5470277, xmax = 583.9769951, ymin = 47.65367965, ymax = 855.5497835) representing A man pedaling on a stationary bike, his teeth showing and hhis face contorted in effort., expresses Peace"
+        "caption": "The image region (xmin = 239, xmax = 583, ymin = 47, ymax = 855), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 239, xmax = 583, ymin = 47, ymax = 855), with description = A person with tense muscles and a firm jaw. expresses Peace"
     },
     "16": {
         "image_file": "HECO_0010.png",
-        "caption": "The image region defined by the coordinates (xmin = 30.3459683, xmax = 207.4817367, ymin = 108.2203796, ymax = 529.4166986) with description = \" A man with his back turned, talking on the phone. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 30.3459683, xmax = 207.4817367, ymin = 108.2203796, ymax = 529.4166986) with description = \" A man with his back turned, talking on the phone. \", expresses Anger"
+        "caption": "The image region (xmin = 30, xmax = 207, ymin = 108, ymax = 529), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 30, xmax = 207, ymin = 108, ymax = 529), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "17": {
         "image_file": "HECO_0010.png",
-        "caption": "The image region defined by the coordinates (xmin = 692.3115093, xmax = 836.2784287, ymin = 106.1038152, ymax = 459.5700729) with description = \" A man in profile, looking straight ahead. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 692.3115093, xmax = 836.2784287, ymin = 106.1038152, ymax = 459.5700729) with description = \" A man in profile, looking straight ahead. \", expresses Happiness"
+        "caption": "The image region (xmin = 692, xmax = 836, ymin = 106, ymax = 459), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 692, xmax = 836, ymin = 106, ymax = 459), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "18": {
         "image_file": "HECO_0011.png",
-        "caption": "The image region defined by the coordinates (xmin = 121.7662338, xmax = 482.4935065, ymin = 161.2467532, ymax = 764.6753247) with description = \" A woman sitting and facing forward, looking down at the ground. In front of her is a small table with a bottle of water and a microphone on it. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 121.7662338, xmax = 482.4935065, ymin = 161.2467532, ymax = 764.6753247) with description = \" A woman sitting and facing forward, looking down at the ground. In front of her is a small table with a bottle of water and a microphone on it. \", expresses Anger"
+        "caption": "The image region (xmin = 121, xmax = 482, ymin = 161, ymax = 764), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 121, xmax = 482, ymin = 161, ymax = 764), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "19": {
         "image_file": "HECO_0011.png",
-        "caption": "The image region defined by the coordinates (xmin = 612.5714286, xmax = 984.5194805, ymin = 113.8701299, ymax = 750.5454545) with description = \" A man sitting and facing forward with his legs crossed, holding a microphone in one hand while the other rests on his leg. He is giving a speech. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 612.5714286, xmax = 984.5194805, ymin = 113.8701299, ymax = 750.5454545) with description = \" A man sitting and facing forward with his legs crossed, holding a microphone in one hand while the other rests on his leg. He is giving a speech. \", expresses Anger"
+        "caption": "The image region (xmin = 612, xmax = 984, ymin = 113, ymax = 750), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 612, xmax = 984, ymin = 113, ymax = 750), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "20": {
         "image_file": "HECO_0012.png",
-        "caption": "The image region defined by the coordinates (xmin = 326.1193386, xmax = 615.5916607, ymin = 90.51948052, ymax = 618.1818182) with description = \" A woman sitting in profile, with her elbows resting on the table and her hands touching her neck while clutching a pen. She is smiling broadly \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 326.1193386, xmax = 615.5916607, ymin = 90.51948052, ymax = 618.1818182) with description = \" A woman sitting in profile, with her elbows resting on the table and her hands touching her neck while clutching a pen. She is smiling broadly \", expresses Disgust"
+        "caption": "The image region (xmin = 326, xmax = 615, ymin = 90, ymax = 618), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 326, xmax = 615, ymin = 90, ymax = 618), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "21": {
         "image_file": "HECO_0012.png",
-        "caption": "The image region defined by the coordinates (xmin = 750.3091301, xmax = 1019.744069, ymin = 181.038961, ymax = 510.7359307) with description = \" A woman seated, facing the camera with a smile on her face. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 750.3091301, xmax = 1019.744069, ymin = 181.038961, ymax = 510.7359307) with description = \" A woman seated, facing the camera with a smile on her face. \", expresses Sadness"
+        "caption": "The image region (xmin = 750, xmax = 1019, ymin = 181, ymax = 510), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 750, xmax = 1019, ymin = 181, ymax = 510), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "22": {
         "image_file": "HECO_0013.png",
-        "caption": "The image region defined by the coordinates (xmin = 504.9636217, xmax = 1016.485044, ymin = 113.4253247, ymax = 760.0324675) with description = \" A man facing the camera with his head slightly tilted to the left, his lips upturned in a smile. A hand from another person, not fully visible, rests firmly on his shoulder. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 504.9636217, xmax = 1016.485044, ymin = 113.4253247, ymax = 760.0324675) with description = \" A man facing the camera with his head slightly tilted to the left, his lips upturned in a smile. A hand from another person, not fully visible, rests firmly on his shoulder. \", expresses Sadness"
+        "caption": "The image region (xmin = 504, xmax = 1016, ymin = 113, ymax = 760), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 504, xmax = 1016, ymin = 113, ymax = 760), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "23": {
         "image_file": "HECO_0013.png",
-        "caption": "The image region defined by the coordinates (xmin = 158.0468876, xmax = 492.4818108, ymin = 252.5162338, ymax = 758.3766234) with description = \" A man looking at the camera with his head tilted upward, his mouth closed and the corners turned downward. \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 158.0468876, xmax = 492.4818108, ymin = 252.5162338, ymax = 758.3766234) with description = \" A man looking at the camera with his head tilted upward, his mouth closed and the corners turned downward. \", expresses Excitement"
+        "caption": "The image region (xmin = 158, xmax = 492, ymin = 252, ymax = 758), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 158, xmax = 492, ymin = 252, ymax = 758), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "24": {
         "image_file": "HECO_0014.png",
-        "caption": "The image region defined by the coordinates (xmin = 11.66406926, xmax = 560.4571429, ymin = 7.090909091, ymax = 811.9090909) with description = \" A woman facing the camera, crouching down with her arms extended as if petting an animal that remains outside the frame. Her face is clearly visible, with her mouth open in a wide smile. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 11.66406926, xmax = 560.4571429, ymin = 7.090909091, ymax = 811.9090909) with description = \" A woman facing the camera, crouching down with her arms extended as if petting an animal that remains outside the frame. Her face is clearly visible, with her mouth open in a wide smile. \", expresses Sadness"
+        "caption": "The image region (xmin = 11, xmax = 560, ymin = 7, ymax = 811), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 11, xmax = 560, ymin = 7, ymax = 811), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "25": {
         "image_file": "HECO_0015.png",
-        "caption": "The image region defined by the coordinates (xmin = 63.79175705, xmax = 430.2993492, ymin = 141.3896104, ymax = 660.3116883) with description = \" A man sitting on a chair, looking toward something or someone off-camera. He has one arm bent, and a child is visible in the background, positioned at a distance behind the man's arm \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 63.79175705, xmax = 430.2993492, ymin = 141.3896104, ymax = 660.3116883) with description = \" A man sitting on a chair, looking toward something or someone off-camera. He has one arm bent, and a child is visible in the background, positioned at a distance behind the man's arm \", expresses Excitement"
+        "caption": "The image region (xmin = 63, xmax = 430, ymin = 141, ymax = 660), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 63, xmax = 430, ymin = 141, ymax = 660), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "26": {
         "image_file": "HECO_0015.png",
-        "caption": "The image region defined by the coordinates (xmin = 439.1843818, xmax = 699.8120029, ymin = 163.5974026, ymax = 598.1298701) with description = \" A man sitting on a chair, his gaze fixed on someone or something off-camera. His arms are crossed and resting against the chair, with a cigarette held in one of his hands. \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 439.1843818, xmax = 699.8120029, ymin = 163.5974026, ymax = 598.1298701) with description = \" A man sitting on a chair, his gaze fixed on someone or something off-camera. His arms are crossed and resting against the chair, with a cigarette held in one of his hands. \", expresses Excitement"
+        "caption": "The image region (xmin = 439, xmax = 699, ymin = 163, ymax = 598), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 439, xmax = 699, ymin = 163, ymax = 598), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "27": {
         "image_file": "HECO_0016.png",
-        "caption": "The image region defined by the coordinates (xmin = 79.74638181, xmax = 262.5279118, ymin = 117.176922, ymax = 547.6857716) with description = \" A woman on a bicycle, seen in profile. Her gaze is fixed intently on the road ahead. \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 79.74638181, xmax = 262.5279118, ymin = 117.176922, ymax = 547.6857716) with description = \" A woman on a bicycle, seen in profile. Her gaze is fixed intently on the road ahead. \", expresses Excitement"
+        "caption": "The image region (xmin = 79, xmax = 262, ymin = 117, ymax = 547), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 79, xmax = 262, ymin = 117, ymax = 547), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "28": {
         "image_file": "HECO_0016.png",
-        "caption": "The image region defined by the coordinates (xmin = 503.8842178, xmax = 673.9627843, ymin = 22.60612555, ymax = 404.4180725) with description = \" A man on a bicycle, seen in profile. His hands are off the handlebars, and one of them is held to his mouth. He appears distracted. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 503.8842178, xmax = 673.9627843, ymin = 22.60612555, ymax = 404.4180725) with description = \" A man on a bicycle, seen in profile. His hands are off the handlebars, and one of them is held to his mouth. He appears distracted. \", expresses Happiness"
+        "caption": "The image region (xmin = 503, xmax = 673, ymin = 22, ymax = 404), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 503, xmax = 673, ymin = 22, ymax = 404), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "29": {
         "image_file": "HECO_0017.png",
-        "caption": "The image region defined by the coordinates (xmin = 212.9283668, xmax = 432.252149, ymin = 172.4350649, ymax = 362.4805195) with description = \" A man sitting with his hand on the table, speaking to people who are outside the frame. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 212.9283668, xmax = 432.252149, ymin = 172.4350649, ymax = 362.4805195) with description = \" A man sitting with his hand on the table, speaking to people who are outside the frame. \", expresses Anger"
+        "caption": "The image region (xmin = 212, xmax = 432, ymin = 172, ymax = 362), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 212, xmax = 432, ymin = 172, ymax = 362), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "30": {
         "image_file": "HECO_0017.png",
-        "caption": "The image region defined by the coordinates (xmin = 584.6189112, xmax = 764.5386819, ymin = 148.9545455, ymax = 342.6688312) with description = \" A man is sitting with his hand on the table. His gaze is focused. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 584.6189112, xmax = 764.5386819, ymin = 148.9545455, ymax = 342.6688312) with description = \" A man is sitting with his hand on the table. His gaze is focused. \", expresses Anger"
+        "caption": "The image region (xmin = 584, xmax = 764, ymin = 148, ymax = 342), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 584, xmax = 764, ymin = 148, ymax = 342), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "31": {
         "image_file": "HECO_0017.png",
-        "caption": "The image region defined by the coordinates (xmin = 804.6286161, xmax = 931.9280688, ymin = 163.6340393, ymax = 358.9492695) with description = \" A man is sitting; his eyebrows are pulled slightly inward and down, and his eyes are narrowed as he stares fixedly at a single point. \", expresses Anger",
-        "foil": "The image region defined by the coordinates (xmin = 804.6286161, xmax = 931.9280688, ymin = 163.6340393, ymax = 358.9492695) with description = \" A man is sitting; his eyebrows are pulled slightly inward and down, and his eyes are narrowed as he stares fixedly at a single point. \", expresses Peace"
+        "caption": "The image region (xmin = 804, xmax = 931, ymin = 163, ymax = 358), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 804, xmax = 931, ymin = 163, ymax = 358), with description = A person with tense muscles and a firm jaw. expresses Peace"
     },
     "32": {
         "image_file": "HECO_0018.png",
-        "caption": "The image region defined by the coordinates (xmin = 682.4314266, xmax = 777.7036527, ymin = 175.6171875, ymax = 389.4005208) with description = \" His mouth is open and he is laughing. \", expresses Surprise",
-        "foil": "The image region defined by the coordinates (xmin = 682.4314266, xmax = 777.7036527, ymin = 175.6171875, ymax = 389.4005208) with description = \" His mouth is open and he is laughing. \", expresses Fear"
+        "caption": "The image region (xmin = 682, xmax = 777, ymin = 175, ymax = 389), with description = A person with raised eyebrows and slightly open mouth. expresses Surprise",
+        "foil": "The image region (xmin = 682, xmax = 777, ymin = 175, ymax = 389), with description = A person with raised eyebrows and slightly open mouth. expresses Fear"
     },
     "33": {
         "image_file": "HECO_0018.png",
-        "caption": "The image region defined by the coordinates (xmin = 239.9448656, xmax = 399.4376292, ymin = 171.3838542, ymax = 409.8616319) with description = \" She is laughing with her mouth wide open. Her facial muscles are contracted, and her arms are lowered \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 239.9448656, xmax = 399.4376292, ymin = 171.3838542, ymax = 409.8616319) with description = \" She is laughing with her mouth wide open. Her facial muscles are contracted, and her arms are lowered \", expresses Excitement"
+        "caption": "The image region (xmin = 239, xmax = 399, ymin = 171, ymax = 409), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 239, xmax = 399, ymin = 171, ymax = 409), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "34": {
         "image_file": "HECO_0018.png",
-        "caption": "The image region defined by the coordinates (xmin = 498.9441764, xmax = 654.9083391, ymin = 162.2116319, ymax = 330.8394097) with description = \" His arm is on the table, and his hand is touching a beer glass. His gaze is directed downward, and he appears to be distracted. \", expresses Anger",
-        "foil": "The image region defined by the coordinates (xmin = 498.9441764, xmax = 654.9083391, ymin = 162.2116319, ymax = 330.8394097) with description = \" His arm is on the table, and his hand is touching a beer glass. His gaze is directed downward, and he appears to be distracted. \", expresses Peace"
+        "caption": "The image region (xmin = 498, xmax = 654, ymin = 162, ymax = 330), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 498, xmax = 654, ymin = 162, ymax = 330), with description = A person with tense muscles and a firm jaw. expresses Peace"
     },
     "35": {
         "image_file": "HECO_0019.png",
-        "caption": "The image region defined by the coordinates (xmin = 598.4507236, xmax = 984.4796692, ymin = 3.186851343, ymax = 571.3065095) with description = \" He is smiling, and his facial muscles are contracted. His right arm is lowered, while his left arm is embracing someone who is not visible in the scene. \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 598.4507236, xmax = 984.4796692, ymin = 3.186851343, ymax = 571.3065095) with description = \" He is smiling, and his facial muscles are contracted. His right arm is lowered, while his left arm is embracing someone who is not visible in the scene. \", expresses Disgust"
+        "caption": "The image region (xmin = 598, xmax = 984, ymin = 3, ymax = 571), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 598, xmax = 984, ymin = 3, ymax = 571), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "36": {
         "image_file": "HECO_0019.png",
-        "caption": "The image region defined by the coordinates (xmin = 115.0323915, xmax = 574.4562371, ymin = 28.59344475, ymax = 568.4835546) with description = \" He is smiling with his facial muscles contracted. He is holding the dog by supporting its neck with his hand and cradling its body with his arm. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 115.0323915, xmax = 574.4562371, ymin = 28.59344475, ymax = 568.4835546) with description = \" He is smiling with his facial muscles contracted. He is holding the dog by supporting its neck with his hand and cradling its body with his arm. \", expresses Sadness"
+        "caption": "The image region (xmin = 115, xmax = 574, ymin = 28, ymax = 568), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 115, xmax = 574, ymin = 28, ymax = 568), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "37": {
         "image_file": "HECO_0020.png",
-        "caption": "The image region defined by the coordinates (xmin = 10.70652394, xmax = 310.0734071, ymin = 294.7878788, ymax = 753.5930736) with description = \" His facial muscles are slightly contracted and he is smiling. He is working on his PC. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 10.70652394, xmax = 310.0734071, ymin = 294.7878788, ymax = 753.5930736) with description = \" His facial muscles are slightly contracted and he is smiling. He is working on his PC. \", expresses Sadness"
+        "caption": "The image region (xmin = 10, xmax = 310, ymin = 294, ymax = 753), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 10, xmax = 310, ymin = 294, ymax = 753), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "38": {
         "image_file": "HECO_0020.png",
-        "caption": "The image region defined by the coordinates (xmin = 377.7081473, xmax = 665.9873681, ymin = 270.4069264, ymax = 641.6623377) with description = \" His eyes and mouth are closed, and his eyebrows are raised. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 377.7081473, xmax = 665.9873681, ymin = 270.4069264, ymax = 641.6623377) with description = \" His eyes and mouth are closed, and his eyebrows are raised. \", expresses Happiness"
+        "caption": "The image region (xmin = 377, xmax = 665, ymin = 270, ymax = 641), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 377, xmax = 665, ymin = 270, ymax = 641), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "39": {
         "image_file": "HECO_0021.png",
-        "caption": "The image region defined by the coordinates (xmin = 554.9991342, xmax = 954.9852814, ymin = 206.5227273, ymax = 794.1818182) with description = \" He is leaning with his elbow on the table, and his hand is touching his face, which is not visible. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 554.9991342, xmax = 954.9852814, ymin = 206.5227273, ymax = 794.1818182) with description = \" He is leaning with his elbow on the table, and his hand is touching his face, which is not visible. \", expresses Happiness"
+        "caption": "The image region (xmin = 554, xmax = 954, ymin = 206, ymax = 794), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 554, xmax = 954, ymin = 206, ymax = 794), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "40": {
         "image_file": "HECO_0022.png",
-        "caption": "The image region defined by the coordinates (xmin = 356.3886975, xmax = 602.6850448, ymin = 146.3185391, ymax = 422.1774348) with description = \" The muscles of his face are slightly contracted and the corners of his mouth are turned upward. His eyes are looking at the camera. His arms are crossed, resting on the table. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 356.3886975, xmax = 602.6850448, ymin = 146.3185391, ymax = 422.1774348) with description = \" The muscles of his face are slightly contracted and the corners of his mouth are turned upward. His eyes are looking at the camera. His arms are crossed, resting on the table. \", expresses Anger"
+        "caption": "The image region (xmin = 356, xmax = 602, ymin = 146, ymax = 422), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 356, xmax = 602, ymin = 146, ymax = 422), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "41": {
         "image_file": "HECO_0022.png",
-        "caption": "The image region defined by the coordinates (xmin = 654.2026189, xmax = 996.4769125, ymin = 133.6191526, ymax = 571.747987) with description = \" The muscles of his face are very contracted. His mouth is turned upward and open, showing his teeth. His eyebrows are slightly arched. One hand is touching a glass on the table, while the other is on his leg.\u001b[A\u001b[A\u001b[A\u001b \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 654.2026189, xmax = 996.4769125, ymin = 133.6191526, ymax = 571.747987) with description = \" The muscles of his face are very contracted. His mouth is turned upward and open, showing his teeth. His eyebrows are slightly arched. One hand is touching a glass on the table, while the other is on his leg.\u001b[A\u001b[A\u001b[A\u001b \", expresses Disgust"
+        "caption": "The image region (xmin = 654, xmax = 996, ymin = 133, ymax = 571), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 654, xmax = 996, ymin = 133, ymax = 571), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "42": {
         "image_file": "HECO_0023.png",
-        "caption": "The image region defined by the coordinates (xmin = 68.3623681, xmax = 654.8997058, ymin = 46.54545455, ymax = 1011.809524) with description = \" Her facial muscles are relaxed, her eyes are looking at the camera, and her mouth is closed. She is leaning against a motorcycle \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 68.3623681, xmax = 654.8997058, ymin = 46.54545455, ymax = 1011.809524) with description = \" Her facial muscles are relaxed, her eyes are looking at the camera, and her mouth is closed. She is leaning against a motorcycle \", expresses Anger"
+        "caption": "The image region (xmin = 68, xmax = 654, ymin = 46, ymax = 1011), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 68, xmax = 654, ymin = 46, ymax = 1011), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "43": {
         "image_file": "HECO_0024.png",
-        "caption": "The image region defined by the coordinates (xmin = 106.4513338, xmax = 857.2862293, ymin = 60.52380952, ymax = 651.0) with description = \" \u201cHis facial muscles show little tension, his eyes are closed. He is holding a ball in his arms, and his legs are bent sharply to the right. \", expresses Anger",
-        "foil": "The image region defined by the coordinates (xmin = 106.4513338, xmax = 857.2862293, ymin = 60.52380952, ymax = 651.0) with description = \" \u201cHis facial muscles show little tension, his eyes are closed. He is holding a ball in his arms, and his legs are bent sharply to the right. \", expresses Peace"
+        "caption": "The image region (xmin = 106, xmax = 857, ymin = 60, ymax = 651), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 106, xmax = 857, ymin = 60, ymax = 651), with description = A person with tense muscles and a firm jaw. expresses Peace"
     },
     "44": {
         "image_file": "HECO_0025.png",
-        "caption": "The image region defined by the coordinates (xmin = 133.8181818, xmax = 529.038961, ymin = 89.76623377, ymax = 707.3246753) with description = \" His eyes are directed toward the camera, and his facial muscles show little tension. His mouth slightly turns downward. In one arm he holds a flyer, while the other touches his face. \", expresses Anger",
-        "foil": "The image region defined by the coordinates (xmin = 133.8181818, xmax = 529.038961, ymin = 89.76623377, ymax = 707.3246753) with description = \" His eyes are directed toward the camera, and his facial muscles show little tension. His mouth slightly turns downward. In one arm he holds a flyer, while the other touches his face. \", expresses Peace"
+        "caption": "The image region (xmin = 133, xmax = 529, ymin = 89, ymax = 707), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 133, xmax = 529, ymin = 89, ymax = 707), with description = A person with tense muscles and a firm jaw. expresses Peace"
     },
     "45": {
         "image_file": "HECO_0025.png",
-        "caption": "The image region defined by the coordinates (xmin = 623.7922078, xmax = 898.0779221, ymin = 106.3896104, ymax = 763.8441558) with description = \" His mouth is strongly turned upward, and his facial muscles are highly contracted. He is holding a flyer in his hands. His legs are crossed. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 623.7922078, xmax = 898.0779221, ymin = 106.3896104, ymax = 763.8441558) with description = \" His mouth is strongly turned upward, and his facial muscles are highly contracted. He is holding a flyer in his hands. His legs are crossed. \", expresses Anger"
+        "caption": "The image region (xmin = 623, xmax = 898, ymin = 106, ymax = 763), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 623, xmax = 898, ymin = 106, ymax = 763), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "46": {
         "image_file": "HECO_0026.png",
-        "caption": "The image region defined by the coordinates (xmin = 1.246753247, xmax = 1023.584416, ymin = 23.27272727, ymax = 560.2077922) with description = \" The man's eyes are shut in a serene expression. His face is nearly obscured by a cat in the foreground; only a portion of the cat's body is visible, as it is partially cropped out of the frame. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 1.246753247, xmax = 1023.584416, ymin = 23.27272727, ymax = 560.2077922) with description = \" The man's eyes are shut in a serene expression. His face is nearly obscured by a cat in the foreground; only a portion of the cat's body is visible, as it is partially cropped out of the frame. \", expresses Anger"
+        "caption": "The image region (xmin = 1, xmax = 1023, ymin = 23, ymax = 560), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 1, xmax = 1023, ymin = 23, ymax = 560), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "47": {
         "image_file": "HECO_0027.png",
-        "caption": "The image region defined by the coordinates (xmin = 650.5931835, xmax = 772.3741842, ymin = 0.0, ymax = 367.5) with description = \" Her/His smile is very broad, and her/his eyes are wide open. Her/His hands are resting on her/his knees. A man's arm is resting on her/his knees, and his smiling face is visible. \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 650.5931835, xmax = 772.3741842, ymin = 0.0, ymax = 367.5) with description = \" Her/His smile is very broad, and her/his eyes are wide open. Her/His hands are resting on her/his knees. A man's arm is resting on her/his knees, and his smiling face is visible. \", expresses Disgust"
+        "caption": "The image region (xmin = 650, xmax = 772, ymin = 0, ymax = 367), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 650, xmax = 772, ymin = 0, ymax = 367), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "48": {
         "image_file": "HECO_0027.png",
-        "caption": "The image region defined by the coordinates (xmin = 35.00507614, xmax = 395.1501088, ymin = 182.6363636, ymax = 676.3484848) with description = \" He is smiling a lot, and his eyes are semi-open. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 35.00507614, xmax = 395.1501088, ymin = 182.6363636, ymax = 676.3484848) with description = \" He is smiling a lot, and his eyes are semi-open. \", expresses Sadness"
+        "caption": "The image region (xmin = 35, xmax = 395, ymin = 182, ymax = 676), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 35, xmax = 395, ymin = 182, ymax = 676), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "49": {
         "image_file": "HECO_0028.png",
-        "caption": "The image region defined by the coordinates (xmin = 189.5064935, xmax = 628.3636364, ymin = 38.78787879, ymax = 967.4805195) with description = \" He is participating in a cycling race. His hands are on the handlebars. His face is heavily strained with fatigue, and his mouth is wide open. \", expresses Surprise",
-        "foil": "The image region defined by the coordinates (xmin = 189.5064935, xmax = 628.3636364, ymin = 38.78787879, ymax = 967.4805195) with description = \" He is participating in a cycling race. His hands are on the handlebars. His face is heavily strained with fatigue, and his mouth is wide open. \", expresses Fear"
+        "caption": "The image region (xmin = 189, xmax = 628, ymin = 38, ymax = 967), with description = A person with raised eyebrows and slightly open mouth. expresses Surprise",
+        "foil": "The image region (xmin = 189, xmax = 628, ymin = 38, ymax = 967), with description = A person with raised eyebrows and slightly open mouth. expresses Fear"
     },
     "50": {
         "image_file": "HECO_0029.png",
-        "caption": "The image region defined by the coordinates (xmin = 0.138428262, xmax = 231.221341, ymin = 222.1666667, ymax = 676.8333333) with description = \" His mouth is closed, his face is relaxed, and his gaze is directed downwards. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 0.138428262, xmax = 231.221341, ymin = 222.1666667, ymax = 676.8333333) with description = \" His mouth is closed, his face is relaxed, and his gaze is directed downwards. \", expresses Anger"
+        "caption": "The image region (xmin = 0, xmax = 231, ymin = 222, ymax = 676), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 0, xmax = 231, ymin = 222, ymax = 676), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "51": {
         "image_file": "HECO_0029.png",
-        "caption": "The image region defined by the coordinates (xmin = 504.3864456, xmax = 922.2552271, ymin = 203.7142857, ymax = 677.5714286) with description = \" His face is focused and appears relaxed. His arms are gesturing, and his back is curved. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 504.3864456, xmax = 922.2552271, ymin = 203.7142857, ymax = 677.5714286) with description = \" His face is focused and appears relaxed. His arms are gesturing, and his back is curved. \", expresses Happiness"
+        "caption": "The image region (xmin = 504, xmax = 922, ymin = 203, ymax = 677), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 504, xmax = 922, ymin = 203, ymax = 677), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "52": {
         "image_file": "HECO_0030.png",
-        "caption": "The image region defined by the coordinates (xmin = 216.5194805, xmax = 669.5064935, ymin = 350.7532468, ymax = 762.1818182) with description = \" His face is focused and appears relaxed. His arms are gesturing, and his back is curved. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 216.5194805, xmax = 669.5064935, ymin = 350.7532468, ymax = 762.1818182) with description = \" His face is focused and appears relaxed. His arms are gesturing, and his back is curved. \", expresses Anger"
+        "caption": "The image region (xmin = 216, xmax = 669, ymin = 350, ymax = 762), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 216, xmax = 669, ymin = 350, ymax = 762), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "53": {
         "image_file": "HECO_0030.png",
-        "caption": "The image region defined by the coordinates (xmin = 219.012987, xmax = 398.5454545, ymin = 214.4415584, ymax = 344.1038961) with description = \" He is staring blankly into space. His facial muscles are completely relaxed, and his mouth is closed. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 219.012987, xmax = 398.5454545, ymin = 214.4415584, ymax = 344.1038961) with description = \" He is staring blankly into space. His facial muscles are completely relaxed, and his mouth is closed. \", expresses Happiness"
+        "caption": "The image region (xmin = 219, xmax = 398, ymin = 214, ymax = 344), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 219, xmax = 398, ymin = 214, ymax = 344), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "54": {
         "image_file": "HECO_0030.png",
-        "caption": "The image region defined by the coordinates (xmin = 722.7012987, xmax = 1016.103896, ymin = 222.7532468, ymax = 723.1168831) with description = \" His face is slightly strained, and the corners of his mouth are turned slightly upward. He is holding a bottle of wine, and his arm is resting on one of his legs \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 722.7012987, xmax = 1016.103896, ymin = 222.7532468, ymax = 723.1168831) with description = \" His face is slightly strained, and the corners of his mouth are turned slightly upward. He is holding a bottle of wine, and his arm is resting on one of his legs \", expresses Excitement"
+        "caption": "The image region (xmin = 722, xmax = 1016, ymin = 222, ymax = 723), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 722, xmax = 1016, ymin = 222, ymax = 723), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "55": {
         "image_file": "HECO_0031.png",
-        "caption": "The image region defined by the coordinates (xmin = 223.3073593, xmax = 692.0865801, ymin = 490.9437229, ymax = 1016.242424) with description = \" He has a smiling face; his facial muscles are contracted and his eyes are semi-open. His eyebrows are slightly raised. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 223.3073593, xmax = 692.0865801, ymin = 490.9437229, ymax = 1016.242424) with description = \" He has a smiling face; his facial muscles are contracted and his eyes are semi-open. His eyebrows are slightly raised. \", expresses Sadness"
+        "caption": "The image region (xmin = 223, xmax = 692, ymin = 490, ymax = 1016), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 223, xmax = 692, ymin = 490, ymax = 1016), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "56": {
         "image_file": "HECO_0032.png",
-        "caption": "The image region defined by the coordinates (xmin = 694.4961373, xmax = 826.3416309, ymin = 376.1212121, ymax = 685.4545455) with description = \" His facial muscles are contracted, and the corners of his mouth are turned upward. He is kneeling on one knee, and his hand is on his knee. \", expresses Surprise",
-        "foil": "The image region defined by the coordinates (xmin = 694.4961373, xmax = 826.3416309, ymin = 376.1212121, ymax = 685.4545455) with description = \" His facial muscles are contracted, and the corners of his mouth are turned upward. He is kneeling on one knee, and his hand is on his knee. \", expresses Fear"
+        "caption": "The image region (xmin = 694, xmax = 826, ymin = 376, ymax = 685), with description = A person with raised eyebrows and slightly open mouth. expresses Surprise",
+        "foil": "The image region (xmin = 694, xmax = 826, ymin = 376, ymax = 685), with description = A person with raised eyebrows and slightly open mouth. expresses Fear"
     },
     "57": {
         "image_file": "HECO_0032.png",
-        "caption": "The image region defined by the coordinates (xmin = 458.9321888, xmax = 596.0515021, ymin = 358.5454545, ymax = 669.6363636) with description = \" He is sitting on his knees, holding a ball with both hands, and has a very wide smile \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 458.9321888, xmax = 596.0515021, ymin = 358.5454545, ymax = 669.6363636) with description = \" He is sitting on his knees, holding a ball with both hands, and has a very wide smile \", expresses Disgust"
+        "caption": "The image region (xmin = 458, xmax = 596, ymin = 358, ymax = 669), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 458, xmax = 596, ymin = 358, ymax = 669), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "58": {
         "image_file": "HECO_0032.png",
-        "caption": "The image region defined by the coordinates (xmin = 900.1751073, xmax = 1017.957082, ymin = 309.3333333, ymax = 666.1212121) with description = \" He has his mouth wide open in a very pronounced smile, yet his teeth are not visible. His eyes are squeezed shut from the intensity of the smile, and his arms are behind his back. \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 900.1751073, xmax = 1017.957082, ymin = 309.3333333, ymax = 666.1212121) with description = \" He has his mouth wide open in a very pronounced smile, yet his teeth are not visible. His eyes are squeezed shut from the intensity of the smile, and his arms are behind his back. \", expresses Disgust"
+        "caption": "The image region (xmin = 900, xmax = 1017, ymin = 309, ymax = 666), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 900, xmax = 1017, ymin = 309, ymax = 666), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "59": {
         "image_file": "HECO_0032.png",
-        "caption": "The image region defined by the coordinates (xmin = 19.4472103, xmax = 219.8523605, ymin = 378.7575758, ymax = 683.6969697) with description = \" His facial muscles are contracted, and the corners of his mouth are turned upward. He is kneeling on one knee, and his hand is on his knee. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 19.4472103, xmax = 219.8523605, ymin = 378.7575758, ymax = 683.6969697) with description = \" His facial muscles are contracted, and the corners of his mouth are turned upward. He is kneeling on one knee, and his hand is on his knee. \", expresses Sadness"
+        "caption": "The image region (xmin = 19, xmax = 219, ymin = 378, ymax = 683), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 19, xmax = 219, ymin = 378, ymax = 683), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "60": {
         "image_file": "HECO_0032.png",
-        "caption": "The image region defined by the coordinates (xmin = 243.5845494, xmax = 364.0034335, ymin = 232.0, ymax = 456.0909091) with description = \" His facial muscles are not contracted, and he appears extremely relaxed. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 243.5845494, xmax = 364.0034335, ymin = 232.0, ymax = 456.0909091) with description = \" His facial muscles are not contracted, and he appears extremely relaxed. \", expresses Anger"
+        "caption": "The image region (xmin = 243, xmax = 364, ymin = 232, ymax = 456), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 243, xmax = 364, ymin = 232, ymax = 456), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "61": {
         "image_file": "HECO_0033.png",
-        "caption": "The image region defined by the coordinates (xmin = 26.5974026, xmax = 746.9437229, ymin = 165.1255411, ymax = 1009.593074) with description = \" Her facial muscles are not contracted, and she appears extremely relaxed. She is holding a cup with her left hand while touching it with the fingers of her right hand. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 26.5974026, xmax = 746.9437229, ymin = 165.1255411, ymax = 1009.593074) with description = \" Her facial muscles are not contracted, and she appears extremely relaxed. She is holding a cup with her left hand while touching it with the fingers of her right hand. \", expresses Anger"
+        "caption": "The image region (xmin = 26, xmax = 746, ymin = 165, ymax = 1009), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 26, xmax = 746, ymin = 165, ymax = 1009), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "62": {
         "image_file": "HECO_0034.png",
-        "caption": "The image region defined by the coordinates (xmin = 160.7142042, xmax = 522.0051379, ymin = 301.4372294, ymax = 987.4285714) with description = \" Her face is focused and conveys a sense of pressure that makes her look sad. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 160.7142042, xmax = 522.0051379, ymin = 301.4372294, ymax = 987.4285714) with description = \" Her face is focused and conveys a sense of pressure that makes her look sad. \", expresses Happiness"
+        "caption": "The image region (xmin = 160, xmax = 522, ymin = 301, ymax = 987), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 160, xmax = 522, ymin = 301, ymax = 987), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "63": {
         "image_file": "HECO_0035.png",
-        "caption": "The image region defined by the coordinates (xmin = 79.44388125, xmax = 384.1969587, ymin = 298.0194805, ymax = 666.4664502) with description = \" Her face is not clearly visible and she seems to have a faint smile. Her arms are crossed. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 79.44388125, xmax = 384.1969587, ymin = 298.0194805, ymax = 666.4664502) with description = \" Her face is not clearly visible and she seems to have a faint smile. Her arms are crossed. \", expresses Sadness"
+        "caption": "The image region (xmin = 79, xmax = 384, ymin = 298, ymax = 666), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 79, xmax = 384, ymin = 298, ymax = 666), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "64": {
         "image_file": "HECO_0035.png",
-        "caption": "The image region defined by the coordinates (xmin = 608.8689356, xmax = 891.3772629, ymin = 285.4166667, ymax = 679.8106061) with description = \" Her facial muscles are not very contracted and her face is relaxed. Her arms are resting on the chair and her legs are crossed. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 608.8689356, xmax = 891.3772629, ymin = 285.4166667, ymax = 679.8106061) with description = \" Her facial muscles are not very contracted and her face is relaxed. Her arms are resting on the chair and her legs are crossed. \", expresses Anger"
+        "caption": "The image region (xmin = 608, xmax = 891, ymin = 285, ymax = 679), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 608, xmax = 891, ymin = 285, ymax = 679), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "65": {
         "image_file": "HECO_0036.png",
-        "caption": "The image region defined by the coordinates (xmin = 6.233766234, xmax = 288.8311688, ymin = 355.7402597, ymax = 756.3636364) with description = \" He looks relaxed, and his mouth hints at a smile. Additionally, his back is bent. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 6.233766234, xmax = 288.8311688, ymin = 355.7402597, ymax = 756.3636364) with description = \" He looks relaxed, and his mouth hints at a smile. Additionally, his back is bent. \", expresses Sadness"
+        "caption": "The image region (xmin = 6, xmax = 288, ymin = 355, ymax = 756), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 6, xmax = 288, ymin = 355, ymax = 756), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "66": {
         "image_file": "HECO_0036.png",
-        "caption": "The image region defined by the coordinates (xmin = 289.6623377, xmax = 459.2207792, ymin = 232.7272727, ymax = 471.2727273) with description = \" His smile is very pronounced and his arms are crossed. \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 289.6623377, xmax = 459.2207792, ymin = 232.7272727, ymax = 471.2727273) with description = \" His smile is very pronounced and his arms are crossed. \", expresses Disgust"
+        "caption": "The image region (xmin = 289, xmax = 459, ymin = 232, ymax = 471), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 289, xmax = 459, ymin = 232, ymax = 471), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "67": {
         "image_file": "HECO_0036.png",
-        "caption": "The image region defined by the coordinates (xmin = 540.6753247, xmax = 721.038961, ymin = 190.3376623, ymax = 381.5064935) with description = \" He does not seem to be at ease. His mouth is closed, his facial muscles are contracted, and his eyes appear to be on alert. \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 540.6753247, xmax = 721.038961, ymin = 190.3376623, ymax = 381.5064935) with description = \" He does not seem to be at ease. His mouth is closed, his facial muscles are contracted, and his eyes appear to be on alert. \", expresses Excitement"
+        "caption": "The image region (xmin = 540, xmax = 721, ymin = 190, ymax = 381), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 540, xmax = 721, ymin = 190, ymax = 381), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "68": {
         "image_file": "HECO_0036.png",
-        "caption": "The image region defined by the coordinates (xmin = 746.3896104, xmax = 1013.61039, ymin = 263.4805195, ymax = 664.9350649) with description = \" Her eyes are closed and her smile is turned downwards; there is something worrying her. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 746.3896104, xmax = 1013.61039, ymin = 263.4805195, ymax = 664.9350649) with description = \" Her eyes are closed and her smile is turned downwards; there is something worrying her. \", expresses Happiness"
+        "caption": "The image region (xmin = 746, xmax = 1013, ymin = 263, ymax = 664), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 746, xmax = 1013, ymin = 263, ymax = 664), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "69": {
         "image_file": "HECO_0037.png",
-        "caption": "The image region defined by the coordinates (xmin = 389.0092387, xmax = 669.3937298, ymin = 387.8787879, ymax = 781.2987013) with description = \" Her mouth is slightly open, while her eyes are open and staring fixedly at a child who is not in the frame. \", expresses Surprise",
-        "foil": "The image region defined by the coordinates (xmin = 389.0092387, xmax = 669.3937298, ymin = 387.8787879, ymax = 781.2987013) with description = \" Her mouth is slightly open, while her eyes are open and staring fixedly at a child who is not in the frame. \", expresses Fear"
+        "caption": "The image region (xmin = 389, xmax = 669, ymin = 387, ymax = 781), with description = A person with raised eyebrows and slightly open mouth. expresses Surprise",
+        "foil": "The image region (xmin = 389, xmax = 669, ymin = 387, ymax = 781), with description = A person with raised eyebrows and slightly open mouth. expresses Fear"
     },
     "70": {
         "image_file": "HECO_0037.png",
-        "caption": "The image region defined by the coordinates (xmin = 39.89660743, xmax = 292.5924374, ymin = 372.3636364, ymax = 838.9264069) with description = \" She is smiling a lot, and her facial muscles are contracted. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 39.89660743, xmax = 292.5924374, ymin = 372.3636364, ymax = 838.9264069) with description = \" She is smiling a lot, and her facial muscles are contracted. \", expresses Sadness"
+        "caption": "The image region (xmin = 39, xmax = 292, ymin = 372, ymax = 838), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 39, xmax = 292, ymin = 372, ymax = 838), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "71": {
         "image_file": "HECO_0038.png",
-        "caption": "The image region defined by the coordinates (xmin = 826.574514, xmax = 1018.25198, ymin = 193.8344156, ymax = 488.6396104) with description = \" He seems to have a look of disapproval. \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 826.574514, xmax = 1018.25198, ymin = 193.8344156, ymax = 488.6396104) with description = \" He seems to have a look of disapproval. \", expresses Excitement"
+        "caption": "The image region (xmin = 826, xmax = 1018, ymin = 193, ymax = 488), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 826, xmax = 1018, ymin = 193, ymax = 488), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "72": {
         "image_file": "HECO_0038.png",
-        "caption": "The image region defined by the coordinates (xmin = 4.573074154, xmax = 418.8912887, ymin = 128.2402597, ymax = 678.0519481) with description = \" His face is not visible, and his arms seem busy doing something. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 4.573074154, xmax = 418.8912887, ymin = 128.2402597, ymax = 678.0519481) with description = \" His face is not visible, and his arms seem busy doing something. \", expresses Anger"
+        "caption": "The image region (xmin = 4, xmax = 418, ymin = 128, ymax = 678), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 4, xmax = 418, ymin = 128, ymax = 678), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "73": {
         "image_file": "HECO_0039.png",
-        "caption": "The image region defined by the coordinates (xmin = 2.077922078, xmax = 379.4285714, ymin = 0.831168831, ymax = 758.8571429) with description = \" A woman with a radiant, wide smile. Her mouth is curved upwards, revealing her teeth in a joyful expression. Her facial muscles are visibly engaged, with high-set cheeks and slight crinkling around the eyes, conveying genuine and intense happiness. \", expresses Excitement",
-        "foil": "The image region defined by the coordinates (xmin = 2.077922078, xmax = 379.4285714, ymin = 0.831168831, ymax = 758.8571429) with description = \" A woman with a radiant, wide smile. Her mouth is curved upwards, revealing her teeth in a joyful expression. Her facial muscles are visibly engaged, with high-set cheeks and slight crinkling around the eyes, conveying genuine and intense happiness. \", expresses Disgust"
+        "caption": "The image region (xmin = 2, xmax = 379, ymin = 0, ymax = 758), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 2, xmax = 379, ymin = 0, ymax = 758), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
     },
     "74": {
         "image_file": "HECO_0039.png",
-        "caption": "The image region defined by the coordinates (xmin = 387.7402597, xmax = 1024.0, ymin = 0.0, ymax = 758.8571429) with description = \" His face is relaxed and hints at a smile. He has a cat in his arms. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 387.7402597, xmax = 1024.0, ymin = 0.0, ymax = 758.8571429) with description = \" His face is relaxed and hints at a smile. He has a cat in his arms. \", expresses Sadness"
+        "caption": "The image region (xmin = 387, xmax = 1024, ymin = 0, ymax = 758), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 387, xmax = 1024, ymin = 0, ymax = 758), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "75": {
         "image_file": "HECO_0040.png",
-        "caption": "The image region defined by the coordinates (xmin = 200.034632, xmax = 498.1471861, ymin = 191.7229437, ymax = 826.7359307) with description = \" Her face is not very tense, her mouth is closed, and her gaze seems to be lost in thought. Her arms are crossed. \", expresses Disgust",
-        "foil": "The image region defined by the coordinates (xmin = 200.034632, xmax = 498.1471861, ymin = 191.7229437, ymax = 826.7359307) with description = \" Her face is not very tense, her mouth is closed, and her gaze seems to be lost in thought. Her arms are crossed. \", expresses Excitement"
+        "caption": "The image region (xmin = 200, xmax = 498, ymin = 191, ymax = 826), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 200, xmax = 498, ymin = 191, ymax = 826), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
     },
     "76": {
         "image_file": "HECO_0040.png",
-        "caption": "The image region defined by the coordinates (xmin = 528.6233766, xmax = 759.6883117, ymin = 214.995671, ymax = 713.6969697) with description = \" She is smiling, and her face is slightly contracted. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 528.6233766, xmax = 759.6883117, ymin = 214.995671, ymax = 713.6969697) with description = \" She is smiling, and her face is slightly contracted. \", expresses Sadness"
+        "caption": "The image region (xmin = 528, xmax = 759, ymin = 214, ymax = 713), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 528, xmax = 759, ymin = 214, ymax = 713), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "77": {
         "image_file": "HECO_0041.png",
-        "caption": "The image region defined by the coordinates (xmin = 2.454618474, xmax = 533.7831325, ymin = 330.6493506, ymax = 755.8874459) with description = \" There are two girls, a man, and a dog. All the people are smiling and seem very amused. \", expresses Happiness",
-        "foil": "The image region defined by the coordinates (xmin = 2.454618474, xmax = 533.7831325, ymin = 330.6493506, ymax = 755.8874459) with description = \" There are two girls, a man, and a dog. All the people are smiling and seem very amused. \", expresses Sadness"
+        "caption": "The image region (xmin = 2, xmax = 533, ymin = 330, ymax = 755), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 2, xmax = 533, ymin = 330, ymax = 755), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
     },
     "78": {
         "image_file": "HECO_0042.png",
-        "caption": "The image region defined by the coordinates (xmin = 359.0649351, xmax = 608.0, ymin = 129.6623377, ymax = 763.012987) with description = \" A woman sitting with her hands clasped together in her lap. Her facial expression is characterized by widely dilated eyes and high, arched eyebrows that create subtle wrinkles on her forehead. Her jaw is slightly dropped, with her lips parted just enough to reveal her upper teeth, as if she has just witnessed something unexpected. \", expresses Surprise",
-        "foil": "The image region defined by the coordinates (xmin = 359.0649351, xmax = 608.0, ymin = 129.6623377, ymax = 763.012987) with description = \" A woman sitting with her hands clasped together in her lap. Her facial expression is characterized by widely dilated eyes and high, arched eyebrows that create subtle wrinkles on her forehead. Her jaw is slightly dropped, with her lips parted just enough to reveal her upper teeth, as if she has just witnessed something unexpected. \", expresses Fear"
+        "caption": "The image region (xmin = 359, xmax = 608, ymin = 129, ymax = 763), with description = A person with raised eyebrows and slightly open mouth. expresses Surprise",
+        "foil": "The image region (xmin = 359, xmax = 608, ymin = 129, ymax = 763), with description = A person with raised eyebrows and slightly open mouth. expresses Fear"
     },
     "79": {
         "image_file": "HECO_0042.png",
-        "caption": "The image region defined by the coordinates (xmin = 643.7402597, xmax = 1024.0, ymin = 183.6883117, ymax = 758.025974) with description = \" A woman sitting with her legs crossed, her body leaning slightly as her left hand supports the weight of her head. Her lips are firmly closed and curve naturally downwards at the corners. Her eyes are wide but vacant, staring into the distance without focusing on anything, capturing a moment of deep, silent melancholy. \", expresses Sadness",
-        "foil": "The image region defined by the coordinates (xmin = 643.7402597, xmax = 1024.0, ymin = 183.6883117, ymax = 758.025974) with description = \" A woman sitting with her legs crossed, her body leaning slightly as her left hand supports the weight of her head. Her lips are firmly closed and curve naturally downwards at the corners. Her eyes are wide but vacant, staring into the distance without focusing on anything, capturing a moment of deep, silent melancholy. \", expresses Happiness"
+        "caption": "The image region (xmin = 643, xmax = 1024, ymin = 183, ymax = 758), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 643, xmax = 1024, ymin = 183, ymax = 758), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
     },
     "80": {
         "image_file": "HECO_0043.png",
-        "caption": "The image region defined by the coordinates (xmin = 281.9399142, xmax = 740.1030043, ymin = 65.90909091, ymax = 917.2348485) with description = \" A woman sitting in a poised, balanced position with her legs crossed. Her eyes are gently closed, and her lips are softly pressed together without any pressure. Her facial features are completely smooth and relaxed, showing a total absence of stress. She appears to be in a state of quiet stillness, as if breathing deeply and enjoying the silence. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 281.9399142, xmax = 740.1030043, ymin = 65.90909091, ymax = 917.2348485) with description = \" A woman sitting in a poised, balanced position with her legs crossed. Her eyes are gently closed, and her lips are softly pressed together without any pressure. Her facial features are completely smooth and relaxed, showing a total absence of stress. She appears to be in a state of quiet stillness, as if breathing deeply and enjoying the silence. \", expresses Anger"
+        "caption": "The image region (xmin = 281, xmax = 740, ymin = 65, ymax = 917), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 281, xmax = 740, ymin = 65, ymax = 917), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     },
     "81": {
         "image_file": "HECO_0044.png",
-        "caption": "The image region defined by the coordinates (xmin = 45.22743682, xmax = 464.4389892, ymin = 177.4025974, ymax = 674.1298701) with description = \" A woman in a relaxed seated position, with one leg comfortably stretched out and resting over the other. Her right hand is casually running through her hair in a soothing gesture, while her left hand holds a smartphone. Her facial expression is calm and smooth, with a closed mouth and a neutral, peaceful gaze. \", expresses Peace",
-        "foil": "The image region defined by the coordinates (xmin = 45.22743682, xmax = 464.4389892, ymin = 177.4025974, ymax = 674.1298701) with description = \" A woman in a relaxed seated position, with one leg comfortably stretched out and resting over the other. Her right hand is casually running through her hair in a soothing gesture, while her left hand holds a smartphone. Her facial expression is calm and smooth, with a closed mouth and a neutral, peaceful gaze. \", expresses Anger"
+        "caption": "The image region (xmin = 45, xmax = 464, ymin = 177, ymax = 674), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 45, xmax = 464, ymin = 177, ymax = 674), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
+    },
+    "82": {
+        "image_file": "HECO_0044.png",
+        "caption": "The image region (xmin = 746, xmax = 1024, ymin = 121, ymax = 663), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 746, xmax = 1024, ymin = 121, ymax = 663), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
+    },
+    "83": {
+        "image_file": "HECO_0045.png",
+        "caption": "The image region (xmin = 589, xmax = 834, ymin = 72, ymax = 592), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 589, xmax = 834, ymin = 72, ymax = 592), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
+    },
+    "84": {
+        "image_file": "HECO_0045.png",
+        "caption": "The image region (xmin = 161, xmax = 302, ymin = 0, ymax = 576), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 161, xmax = 302, ymin = 0, ymax = 576), with description = A person with tense muscles and a firm jaw. expresses Peace"
+    },
+    "85": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image region (xmin = 366, xmax = 514, ymin = 357, ymax = 725), with description = A person with raised eyebrows and slightly open mouth. expresses Surprise",
+        "foil": "The image region (xmin = 366, xmax = 514, ymin = 357, ymax = 725), with description = A person with raised eyebrows and slightly open mouth. expresses Fear"
+    },
+    "86": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image region (xmin = 528, xmax = 644, ymin = 392, ymax = 723), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 528, xmax = 644, ymin = 392, ymax = 723), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
+    },
+    "87": {
+        "image_file": "HECO_0046.png",
+        "caption": "The image region (xmin = 845, xmax = 951, ymin = 368, ymax = 706), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 845, xmax = 951, ymin = 368, ymax = 706), with description = A person with tense muscles and a firm jaw. expresses Peace"
+    },
+    "88": {
+        "image_file": "HECO_0047.png",
+        "caption": "The image region (xmin = 19, xmax = 364, ymin = 182, ymax = 695), with description = A person with tense muscles and a firm jaw. expresses Anger",
+        "foil": "The image region (xmin = 19, xmax = 364, ymin = 182, ymax = 695), with description = A person with tense muscles and a firm jaw. expresses Peace"
+    },
+    "89": {
+        "image_file": "HECO_0047.png",
+        "caption": "The image region (xmin = 657, xmax = 1023, ymin = 6, ymax = 698), with description = A person with a wrinkled nose and tightened lips expresses Disgust",
+        "foil": "The image region (xmin = 657, xmax = 1023, ymin = 6, ymax = 698), with description = A person with a wrinkled nose and tightened lips expresses Excitement"
+    },
+    "90": {
+        "image_file": "HECO_0048.png",
+        "caption": "The image region (xmin = 312, xmax = 671, ymin = 138, ymax = 620), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 312, xmax = 671, ymin = 138, ymax = 620), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
+    },
+    "91": {
+        "image_file": "HECO_0049.png",
+        "caption": "The image region (xmin = 416, xmax = 865, ymin = 133, ymax = 677), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 416, xmax = 865, ymin = 133, ymax = 677), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
+    },
+    "92": {
+        "image_file": "HECO_0050.png",
+        "caption": "The image region (xmin = 63, xmax = 424, ymin = 161, ymax = 999), with description = A person with wide eyes and raised eyebrows. expresses Excitement",
+        "foil": "The image region (xmin = 63, xmax = 424, ymin = 161, ymax = 999), with description = A person with wide eyes and raised eyebrows. expresses Disgust"
+    },
+    "93": {
+        "image_file": "HECO_0051.png",
+        "caption": "The image region (xmin = 21, xmax = 427, ymin = 202, ymax = 883), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 21, xmax = 427, ymin = 202, ymax = 883), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
+    },
+    "94": {
+        "image_file": "HECO_0052.png",
+        "caption": "The image region (xmin = 101, xmax = 576, ymin = 47, ymax = 941), with description = A person with raised eyebrows and slightly open mouth. expresses Surprise",
+        "foil": "The image region (xmin = 101, xmax = 576, ymin = 47, ymax = 941), with description = A person with raised eyebrows and slightly open mouth. expresses Fear"
+    },
+    "95": {
+        "image_file": "HECO_0053.png",
+        "caption": "The image region (xmin = 590, xmax = 1021, ymin = 177, ymax = 763), with description = A person with lifted corners of the mouth and bright eyes. expresses Happiness",
+        "foil": "The image region (xmin = 590, xmax = 1021, ymin = 177, ymax = 763), with description = A person with lifted corners of the mouth and bright eyes. expresses Sadness"
+    },
+    "96": {
+        "image_file": "HECO_0053.png",
+        "caption": "The image region (xmin = 0, xmax = 398, ymin = 125, ymax = 757), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 0, xmax = 398, ymin = 125, ymax = 757), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
+    },
+    "97": {
+        "image_file": "HECO_0054.png",
+        "caption": "The image region (xmin = 28, xmax = 508, ymin = 0, ymax = 1014), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 28, xmax = 508, ymin = 0, ymax = 1014), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
+    },
+    "98": {
+        "image_file": "HECO_0055.png",
+        "caption": "The image region (xmin = 239, xmax = 717, ymin = 97, ymax = 1009), with description = A person with lowered eyelids and a downturned mouth. expresses Sadness",
+        "foil": "The image region (xmin = 239, xmax = 717, ymin = 97, ymax = 1009), with description = A person with lowered eyelids and a downturned mouth. expresses Happiness"
+    },
+    "99": {
+        "image_file": "HECO_0056.png",
+        "caption": "The image region (xmin = 25, xmax = 640, ymin = 30, ymax = 610), with description = A person with relaxed facial features and a soft gaze. expresses Peace",
+        "foil": "The image region (xmin = 25, xmax = 640, ymin = 30, ymax = 610), with description = A person with relaxed facial features and a soft gaze. expresses Anger"
     }
 }
